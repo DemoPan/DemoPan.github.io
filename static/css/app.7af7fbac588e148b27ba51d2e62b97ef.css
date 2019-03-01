@@ -329,8 +329,7 @@
 }
 .page-content-server .content-info .tabs-striped-content[data-v-30aa544c] {
       height: 100%;
-      padding: 0 16px;
-      overflow: hidden;
+      overflow-y: auto;
       position: relative;
 }
 .page-content-server .content-info .tabs-striped-content .scroller[data-v-30aa544c] {
@@ -698,7 +697,7 @@ a[data-v-3f42ea9a] {
 }
 .page-content-Hospital .content-info .tabs-striped-content[data-v-060d9783] {
       height: 100%;
-      overflow: hidden;
+      overflow-y: auto;
       position: relative;
 }
 .page-content-Hospital .content-info .tabs-striped-content .scroller[data-v-060d9783] {
@@ -1633,4 +1632,4 @@ a[data-v-3f42ea9a] {
           color: #666;
 }
 
-/*# sourceMappingURL=app.74d7f006bdf00edbc1df6c9849990ac7.css.map*/
+/*# sourceMappingURL=app.7af7fbac588e148b27ba51d2e62b97ef.css.map*/

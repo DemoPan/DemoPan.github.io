@@ -944,6 +944,19 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 
 
@@ -969,12 +982,11 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 	methods: {
 		onInfinite() {
 			// 到底部时加载新数据, 需要根据当前 tabIndex
-			// if (this.scrollNext) {
-			// 	fnHospital(this, {});
-			// }else{
-			// 	if (this.$refs.scroller) this.$refs.scroller.finishInfinite();
-			// }
-			if (this.$refs.scroller) this.$refs.scroller.finishInfinite();
+			if (this.scrollNext) {
+				fnHospital(this, {});
+			} else {
+				if (this.$refs.scroller) this.$refs.scroller.finishInfinite();
+			}
 		}
 	}
 });
@@ -1087,6 +1099,8 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 			this.activeType = this.$route.query.activeType;
 			sessionStorage.activeType = this.$route.query.activeType;
+		} else if (!this.$route.query.activeType) {
+			sessionStorage.activeType = 'Home';
 		}
 		if (sessionStorage.activeType) this.activeType = sessionStorage.activeType;
 	},
@@ -1358,6 +1372,21 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 
 
@@ -1418,13 +1447,11 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 		onInfinite() {
 			// 到底部时加载新数据, 需要根据当前 tabIndex
-			// if (this.scrollNext) {
-			// 	fnTiyan(this, {});
-			// }else{
-			// 	if (this.$refs.scroller) this.$refs.scroller.finishInfinite();
-			// }
-
-			if (this.$refs.scroller) this.$refs.scroller.finishInfinite();
+			if (this.scrollNext) {
+				fnTiyan(this, {});
+			} else {
+				if (this.$refs.scroller) this.$refs.scroller.finishInfinite();
+			}
 
 			// switch(this.tabIndex) {
 			// 	case 0:
@@ -3588,12 +3615,6 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "content-info"
   }, [_c('div', {
     staticClass: "tabs-striped-content"
-  }, [_c('scroller', {
-    ref: "scroller",
-    staticClass: "scroller",
-    attrs: {
-      "on-infinite": _vm.onInfinite
-    }
   }, [_c('CompanyHeader', {
     attrs: {
       "companySwiper": _vm.companySwiper
@@ -3621,7 +3642,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     }, [_c('h2', [_vm._v(_vm._s(item.name))]), _vm._v(" "), _c('div', {
       staticClass: "item-info"
     }, [_vm._v(_vm._s(item.content[0]))])])])
-  }), 1)], 1)], 1)])], 1)
+  }), 1)], 1)])], 1)
 },staticRenderFns: []}
 
 /***/ }),
@@ -4134,12 +4155,6 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "content-info"
   }, [_c('div', {
     staticClass: "tabs-striped-content"
-  }, [_c('scroller', {
-    ref: "scroller",
-    staticClass: "scroller",
-    attrs: {
-      "on-infinite": _vm.onInfinite
-    }
   }, [_c('CompanyHeader', {
     attrs: {
       "companySwiper": _vm.companySwiper
@@ -4174,7 +4189,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     }, [_vm._v(_vm._s(item.content))]), _vm._v(" "), _c('div', {
       staticClass: "time"
     }, [_vm._v(_vm._s(item.dateTime))])])])
-  }), 1)], 1)], 1)])], 1)
+  }), 1)], 1)])], 1)
 },staticRenderFns: []}
 
 /***/ }),
@@ -5099,4 +5114,4 @@ module.exports = VueRouter;
 
 /***/ })
 ],[50]);
-//# sourceMappingURL=app.f76321725da1b99856cb.js.map
+//# sourceMappingURL=app.d703d418626092ca07f6.js.map
