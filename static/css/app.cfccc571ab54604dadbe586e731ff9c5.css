@@ -293,8 +293,13 @@
 .page-content-server[data-v-30aa544c] {
   height: 100%;
 }
+.page-content-server .company-bar[data-v-30aa544c] {
+    height: 40px;
+    overflow: hidden;
+}
 .page-content-server .content-info[data-v-30aa544c] {
-    height: calc(100% - 160px);
+    height: calc(100% - 40px);
+    background: #fff;
     overflow: hidden;
 }
 .page-content-server .content-info .tabs-striped[data-v-30aa544c] {
@@ -324,18 +329,19 @@
 }
 .page-content-server .content-info .tabs-striped-content[data-v-30aa544c] {
       height: 100%;
-      background: #fff;
       padding: 0 16px;
       overflow: hidden;
       position: relative;
-      margin-top: 8px;
 }
 .page-content-server .content-info .tabs-striped-content .scroller[data-v-30aa544c] {
         height: 100%;
-        padding: 0 16px;
 }
 .page-content-server .content-info .tabs-striped-content .scroller > div[data-v-30aa544c] {
           height: 100%;
+}
+.page-content-server .content-info .tabs-striped-content .tabs-striped-content-items[data-v-30aa544c] {
+        background: #fff;
+        padding: 0 16px;
 }
 .page-content-server .content-info .tabs-striped-content .tabs-striped-content-item[data-v-30aa544c] {
         height: 120px;
@@ -378,14 +384,11 @@
             float: left;
             margin-bottom: 0;
 }
-.page-content-server .content-info .tabs-striped-content div.tabs-striped-content-item[data-v-30aa544c]:nth-of-type(2) {
+.page-content-server .content-info .tabs-striped-content div.tabs-striped-content-item[data-v-30aa544c]:first-child {
         border-top: none;
 }
 .page-content-server .content-info .tabs-striped-content-header[data-v-30aa544c] {
       height: calc(100% - 48px);
-}
-.page-content-server .scroller > div > div[data-v-30aa544c]:lasty-child {
-    display: none;
 }
 
 .content-logo[data-v-802a5a50] {
@@ -481,10 +484,6 @@
     top: calc(50% - 60px - 66px);
 }
 
-.company-bar[data-v-605db450] {
-  height: 40px;
-  overflow: hidden;
-}
 .content-swiper[data-v-605db450] {
   height: 120px;
   padding: 36px 22px;
@@ -515,6 +514,10 @@
     background-size: 100%;
 }
 
+.page-content-about .company-bar[data-v-539a8cd8] {
+  height: 40px;
+  overflow: hidden;
+}
 .page-content-about .content-info[data-v-539a8cd8] {
   padding: 18px 16px 0;
   font-size: 14px;
@@ -684,8 +687,12 @@ a[data-v-3f42ea9a] {
 .page-content-Hospital[data-v-060d9783] {
   height: 100%;
 }
+.page-content-Hospital .company-bar[data-v-060d9783] {
+    height: 40px;
+    overflow: hidden;
+}
 .page-content-Hospital .content-info[data-v-060d9783] {
-    height: calc(100% - 160px);
+    height: calc(100% - 40px);
     background: #fff;
     overflow: hidden;
 }
@@ -694,56 +701,66 @@ a[data-v-3f42ea9a] {
       overflow: hidden;
       position: relative;
 }
-.page-content-Hospital .content-info .scroller[data-v-060d9783] {
-      padding: 0 12px;
-      margin: 12px 0;
+.page-content-Hospital .content-info .tabs-striped-content .scroller[data-v-060d9783] {
+        height: 100%;
 }
-.page-content-Hospital .content-info .tabs-striped-content-item[data-v-060d9783] {
-      height: 94px;
-      border: 1px solid #f2f2f2;
-      overflow-y: hidden;
-      padding: 12px;
-      margin-bottom: 12px;
-      box-shadow: 0 2px 2px rgba(0, 0, 0, 0.04);
+.page-content-Hospital .content-info .tabs-striped-content .scroller > div[data-v-060d9783] {
+          height: 100%;
 }
-.page-content-Hospital .content-info .tabs-striped-content-item img[data-v-060d9783] {
-        width: 120px;
-        height: 70px;
-        float: left;
+.page-content-Hospital .content-info .tabs-striped-content .tabs-striped-content-items[data-v-060d9783] {
+        background: #fff;
+        padding: 12px;
 }
-.page-content-Hospital .content-info .tabs-striped-content-item h2[data-v-060d9783] {
-        color: #333;
-        font-size: 16px;
-        line-height: 22px;
-        margin-bottom: 2px;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        white-space: nowrap;
+.page-content-Hospital .content-info .tabs-striped-content .tabs-striped-content-item[data-v-060d9783] {
+        height: 94px;
+        border: 1px solid #f2f2f2;
+        overflow-y: hidden;
+        padding: 12px;
+        margin-bottom: 12px;
+        box-shadow: 0 2px 2px rgba(0, 0, 0, 0.04);
 }
-.page-content-Hospital .content-info .tabs-striped-content-item .img-info[data-v-060d9783] {
-        color: #999;
-        width: calc(100% - 120px);
-        float: left;
-        padding-left: 10px;
+.page-content-Hospital .content-info .tabs-striped-content .tabs-striped-content-item img[data-v-060d9783] {
+          width: 120px;
+          height: 70px;
+          float: left;
 }
-.page-content-Hospital .content-info .tabs-striped-content-item .img-info .item-info[data-v-060d9783] {
-          font-size: 13px;
-          line-height: 18px;
-          margin-bottom: 3px;
-          display: -webkit-box;
-          -webkit-box-orient: vertical;
-          -webkit-line-clamp: 2;
+.page-content-Hospital .content-info .tabs-striped-content .tabs-striped-content-item h2[data-v-060d9783] {
+          color: #333;
+          font-size: 16px;
+          line-height: 22px;
+          margin-bottom: 2px;
           overflow: hidden;
-          /* autoprefixer: off */
-          -webkit-box-orient: vertical;
-          /* autoprefixer: on */
+          text-overflow: ellipsis;
+          white-space: nowrap;
 }
-.page-content-Hospital .content-info .tabs-striped-content-item .img-info span[data-v-060d9783] {
-          font-size: 12px;
+.page-content-Hospital .content-info .tabs-striped-content .tabs-striped-content-item .img-info[data-v-060d9783] {
+          color: #999;
+          width: calc(100% - 120px);
+          float: left;
+          padding-left: 10px;
+}
+.page-content-Hospital .content-info .tabs-striped-content .tabs-striped-content-item .img-info .item-info[data-v-060d9783] {
+            font-size: 13px;
+            line-height: 18px;
+            margin-bottom: 3px;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+            overflow: hidden;
+            /* autoprefixer: off */
+            -webkit-box-orient: vertical;
+            /* autoprefixer: on */
+}
+.page-content-Hospital .content-info .tabs-striped-content .tabs-striped-content-item .img-info span[data-v-060d9783] {
+            font-size: 12px;
 }
 
 .page-content-item[data-v-70a3805c] {
   height: 100%;
+}
+.page-content-item .company-bar[data-v-70a3805c] {
+    height: 40px;
+    overflow: hidden;
 }
 .page-content-item .content-info[data-v-70a3805c] {
     height: calc(100% - 160px);
@@ -858,7 +875,7 @@ a[data-v-3f42ea9a] {
     opacity: 0;
 }
 100% {
-    opacity: 0.4;
+    opacity: 1;
 }
 }
 .page-content-menu[data-v-067714a8] {
@@ -1616,4 +1633,4 @@ a[data-v-3f42ea9a] {
           color: #666;
 }
 
-/*# sourceMappingURL=app.30eaaad8e9b1b7f92aa0c5d8d6f66564.css.map*/
+/*# sourceMappingURL=app.cfccc571ab54604dadbe586e731ff9c5.css.map*/

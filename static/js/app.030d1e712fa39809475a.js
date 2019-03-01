@@ -382,6 +382,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
 
 
 
@@ -926,6 +929,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
 
 
 
@@ -941,23 +947,19 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 				titleInfo: '日本尖端医疗机构',
 				className: 'hospital'
 			},
-			items: []
+			items: [],
+			scrollNext: true
 		};
 	},
-	mounted() {
-		sessionStorage.hospital = JSON.stringify(this.sourceDate);
-	},
+	mounted() {},
 	methods: {
-		onRefresh() {
-			// 下拉刷新, 需要根据当前 tabIndex
-
-			this.items.length = 0;
-			fnHospital(this, {});
-		},
 		onInfinite() {
 			// 到底部时加载新数据, 需要根据当前 tabIndex
-
-			fnHospital(this, {});
+			if (this.scrollNext) {
+				fnHospital(this, {});
+			} else {
+				if (this.$refs.scroller) this.$refs.scroller.finishInfinite();
+			}
 		}
 	}
 });
@@ -975,16 +977,16 @@ function fnHospital(that, params) {
 			if (that.items.length == 0) {
 				that.items = result.data.list;
 			} else {
-				if (result.data.next) {
+				if (that.scrollNext) {
 					that.items = _.concat(that.items, result.data.list);
 				}
 			}
+			that.scrollNext = result.data.next;
+
+			sessionStorage.hospital = JSON.stringify(that.items);
 
 			setTimeout(() => {
-				if (that.$refs.scroller) {
-					that.$refs.scroller.finishPullToRefresh();
-					that.$refs.scroller.finishInfinite();
-				}
+				if (that.$refs.scroller) that.$refs.scroller.finishInfinite();
 			});
 		}
 	}).catch(error => {
@@ -1075,28 +1077,24 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 	},
 	methods: {
 		returnRes(res) {
-			this.showMenu = res.show;
 			this.from = res.from;
 
 			switch (res.activeType) {
 				case 'Menu':
 					this.showMenu = true;
-					if (res.title) this.activeType = res.activeType;
 					break;
 				default:
+					this.showMenu = false;
 					this.activeType = res.activeType;
 					sessionStorage.activeType = res.activeType;
 			}
-		},
-		returnMenuShow(res) {
-			this.showMenu = res;
 		}
 	},
 	watch: {
 		activeType: {
 			immediate: true,
 			handler(newValue, oldValue) {
-				this.activeType = newValue;
+				if (newValue != 'Menu') this.activeType = newValue;
 				this.menus.map(item => {
 					if (item.cn === newValue) {
 						document.title = item.zn;
@@ -1127,6 +1125,10 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__component_company_bar_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__component_company_bar_vue__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__component_company_header_vue__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__component_company_header_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__component_company_header_vue__);
+//
+//
+//
+//
 //
 //
 //
@@ -1337,6 +1339,10 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
 
 
 
@@ -1356,7 +1362,8 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 			},
 			tabs: ["精密体验", "血液净化", "干细胞抗衰"],
 			tabIndex: 0,
-			items: []
+			items: [],
+			scrollNext: true
 		};
 	},
 	mounted() {
@@ -1394,14 +1401,13 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 			}
 		},
 
-		onRefresh() {
-			// 下拉刷新, 需要根据当前 tabIndex
-			this.items.length = 0;
-			fnTiyan(this, {});
-		},
 		onInfinite() {
 			// 到底部时加载新数据, 需要根据当前 tabIndex
-			fnTiyan(this, {});
+			if (this.scrollNext) {
+				fnTiyan(this, {});
+			} else {
+				if (this.$refs.scroller) this.$refs.scroller.finishInfinite();
+			}
 
 			// switch(this.tabIndex) {
 			// 	case 0:
@@ -1431,14 +1437,14 @@ function fnTiyan(that, params) {
 			if (that.items.length == 0) {
 				that.items = result.data.list;
 			} else {
-				if (result.data.next) {
+				if (that.scrollNext) {
 					that.items = __WEBPACK_IMPORTED_MODULE_2_lodash___default.a.concat(that.items, result.data.list);
 				}
 			}
+			that.scrollNext = result.data.next;
 
 			setTimeout(() => {
 				if (that.$refs.scroller) {
-					that.$refs.scroller.finishPullToRefresh();
 					that.$refs.scroller.finishInfinite();
 				}
 			});
@@ -1529,11 +1535,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 			if (title) this.returnRes.title = title;
 			this.returnRes.from = 'Tabbar';
 			this.$emit('returnMenuRes', this.returnRes);
-		},
-		showMenu() {
-			this.$emit('returnMenuShow', {
-				showMenu: true
-			});
 		}
 	},
 	watch: {
@@ -1598,8 +1599,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-//
-//
 //
 //
 //
@@ -3552,10 +3551,8 @@ module.exports = Component.exports
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', {
     staticClass: "page-content-Hospital"
-  }, [_c('CompanyBar'), _vm._v(" "), _c('CompanyHeader', {
-    attrs: {
-      "companySwiper": _vm.companySwiper
-    }
+  }, [_c('CompanyBar'), _vm._v(" "), _c('div', {
+    staticClass: "company-bar"
   }), _vm._v(" "), _c('div', {
     staticClass: "content-info"
   }, [_c('div', {
@@ -3564,9 +3561,14 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     ref: "scroller",
     staticClass: "scroller",
     attrs: {
-      "on-refresh": _vm.onRefresh,
       "on-infinite": _vm.onInfinite
     }
+  }, [_c('CompanyHeader', {
+    attrs: {
+      "companySwiper": _vm.companySwiper
+    }
+  }), _vm._v(" "), _c('div', {
+    staticClass: "tabs-striped-content-items"
   }, _vm._l((_vm.items), function(item) {
     return _c('router-link', {
       staticClass: "tabs-striped-content-item",
@@ -3588,7 +3590,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     }, [_c('h2', [_vm._v(_vm._s(item.name))]), _vm._v(" "), _c('div', {
       staticClass: "item-info"
     }, [_vm._v(_vm._s(item.content[0]))])])])
-  }), 1)], 1)])], 1)
+  }), 1)], 1)], 1)])], 1)
 },staticRenderFns: []}
 
 /***/ }),
@@ -4098,10 +4100,8 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', {
     staticClass: "page-content-server"
-  }, [_c('CompanyBar'), _vm._v(" "), _c('CompanyHeader', {
-    attrs: {
-      "companySwiper": _vm.companySwiper
-    }
+  }, [_c('CompanyBar'), _vm._v(" "), _c('div', {
+    staticClass: "company-bar"
   }), _vm._v(" "), _c('div', {
     staticClass: "content-info"
   }, [_c('div', {
@@ -4110,9 +4110,19 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     ref: "scroller",
     staticClass: "scroller",
     attrs: {
-      "on-refresh": _vm.onRefresh,
       "on-infinite": _vm.onInfinite
     }
+  }, [_c('CompanyHeader', {
+    attrs: {
+      "companySwiper": _vm.companySwiper
+    }
+  }), _vm._v(" "), _c('div', {
+    staticStyle: {
+      "height": "8px",
+      "background": "#eee"
+    }
+  }), _vm._v(" "), _c('div', {
+    staticClass: "tabs-striped-content-items"
   }, _vm._l((_vm.items), function(item) {
     return _c('router-link', {
       staticClass: "tabs-striped-content-item",
@@ -4136,7 +4146,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     }, [_vm._v(_vm._s(item.content))]), _vm._v(" "), _c('div', {
       staticClass: "time"
     }, [_vm._v(_vm._s(item.dateTime))])])])
-  }), 1)], 1)])], 1)
+  }), 1)], 1)], 1)])], 1)
 },staticRenderFns: []}
 
 /***/ }),
@@ -4264,11 +4274,15 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', {
     staticClass: "page-content-about"
-  }, [_c('CompanyBar'), _vm._v(" "), _c('CompanyHeader', {
+  }, [_c('CompanyBar'), _vm._v(" "), _c('div', {
+    staticClass: "company-bar"
+  }), _vm._v(" "), _c('div', {
+    staticClass: "page-content-about-body"
+  }, [_c('CompanyHeader', {
     attrs: {
       "companySwiper": _vm.companySwiper
     }
-  }), _vm._v(" "), _vm._m(0), _vm._v(" "), _c('CompanyInfo')], 1)
+  }), _vm._v(" "), _vm._m(0)], 1), _vm._v(" "), _c('CompanyInfo')], 1)
 },staticRenderFns: [function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', {
     staticClass: "content-info"
@@ -4580,8 +4594,6 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
   return _c('div', {
     staticClass: "company-header"
   }, [_c('div', {
-    staticClass: "company-bar"
-  }), _vm._v(" "), _c('div', {
     staticClass: "content-swiper",
     class: 'content-swiper-' + _vm.companySwiper.className
   }, [_c('h3', [_vm._v(_vm._s(_vm.companySwiper.titleName) + " /")]), _vm._v(" "), _c('span', [_vm._v(_vm._s(_vm.companySwiper.titleInfo))])])])
@@ -4692,7 +4704,11 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', {
     staticClass: "page-content-item"
-  }, [_c('CompanyBar'), _vm._v(" "), _c('CompanyHeader', {
+  }, [_c('CompanyBar'), _vm._v(" "), _c('div', {
+    staticClass: "company-bar"
+  }), _vm._v(" "), _c('div', {
+    staticClass: "page-content-item-body"
+  }, [_c('CompanyHeader', {
     attrs: {
       "companySwiper": _vm.companySwiper
     }
@@ -4719,7 +4735,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     }), _vm._v(" "), _c('h3', {
       staticClass: "name"
     }, [_vm._v(_vm._s(item.name))]), _vm._v(" "), _c('p', [_vm._v(_vm._s(item.hospital) + _vm._s(item.position))])])
-  }), 1)])], 1)
+  }), 1)])], 1)], 1)
 },staticRenderFns: []}
 
 /***/ }),
@@ -5055,4 +5071,4 @@ module.exports = VueRouter;
 
 /***/ })
 ],[48]);
-//# sourceMappingURL=app.73d0a4a504219d72409f.js.map
+//# sourceMappingURL=app.030d1e712fa39809475a.js.map

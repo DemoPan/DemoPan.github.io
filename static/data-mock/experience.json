@@ -25,6 +25,6 @@
 			}
 		],
 		"page": 1,
-		"next": true
+		"next": false
 	}
 }
