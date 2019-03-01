@@ -963,7 +963,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 			scrollNext: true
 		};
 	},
-	mounted() {},
+	mounted() {
+		sessionStorage.hospital = JSON.stringify(this.$hospital.data.list);
+	},
 	methods: {
 		onInfinite() {
 			// 到底部时加载新数据, 需要根据当前 tabIndex
@@ -5097,4 +5099,4 @@ module.exports = VueRouter;
 
 /***/ })
 ],[50]);
-//# sourceMappingURL=app.d4f8e1697b69c84f0c8c.js.map
+//# sourceMappingURL=app.f76321725da1b99856cb.js.map
