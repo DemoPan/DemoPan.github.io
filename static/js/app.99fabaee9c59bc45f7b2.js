@@ -553,7 +553,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 			let _hospital = JSON.parse(sessionStorage.hospital);
 
 			_hospital.map(item => {
-				if (item.id === this.$route.query.id) {
+				if (item.id == this.$route.query.id) {
 					this.sourceDate = item;
 				}
 			});
@@ -1099,13 +1099,16 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 			this.activeType = this.$route.query.activeType;
 			sessionStorage.activeType = this.$route.query.activeType;
-		} else if (!this.$route.query.activeType) {
+		} else if (!this.$route.query.activeType && !sessionStorage.activeType) {
 			sessionStorage.activeType = 'Home';
 		}
 		if (sessionStorage.activeType) this.activeType = sessionStorage.activeType;
+
+		console.log(this.activeType);
 	},
 	methods: {
 		returnRes(res) {
+			console.log('returnRes');
 			this.from = res.from;
 
 			switch (res.activeType) {
@@ -5114,4 +5117,4 @@ module.exports = VueRouter;
 
 /***/ })
 ],[50]);
-//# sourceMappingURL=app.d703d418626092ca07f6.js.map
+//# sourceMappingURL=app.99fabaee9c59bc45f7b2.js.map
