@@ -1,0 +1,20 @@
+{
+	"code": 1,
+	"data": {
+		"list": [
+			{
+				"headImg": "images/about/tp_shanghai.png",
+				"title": "泰璞上海（总部）",
+				"address": "地址：上海市普陀区大渡河路388弄5号华宏商务中心15F"
+			},{
+				"headImg": "images/about/tp_ou.png",
+				"title": "泰璞欧洲/Taipu Europe GmbH",
+				"address": "地址：Dornhofstrasse 34,63263 Neu-Isenburg, Germany"
+			},{
+				"headImg": "images/about/tp_jp.png",
+				"title": "泰璞日本/Taipu Japan Operation Center",
+				"address": "地址：〒104-0061 東京都中央区銀座6-10-1 GINZA SIX 8F"
+			}
+		]
+	}
+}

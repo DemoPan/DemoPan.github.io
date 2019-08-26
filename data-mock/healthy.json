@@ -1,0 +1,835 @@
+{
+	"code": 1,
+	"data": {
+		"list": [
+			{
+				"id": 1,
+				"title": "癌症与不良饮食有关，小心这些饮食习惯",
+				"headImg": "../images/healthy/healthy_1.jpg",
+				"banner": "../images/healthy/page/food.png",
+				"description": "都说病从口入，这句话真的不假。当你得了某些疾病时，医生会建议你需要戒口，避免辛辣等食物，那么需要戒口的这些食物就是导致我们生病的罪魁祸首吗？",
+				"detail": [
+					{
+						"type": "txt",
+						"font": "Regular",
+						"content": "最近，《柳叶刀》发布了195个国家和地区饮食结构造成的死亡率和疾病负担分析，结果显示，",
+						"afterChild": "全球近20%的死亡案例是因为吃的食物不健康导致的。同时中国因为饮食结构问题造成的心血管疾病死亡率、癌症死亡率是世界人口前20的大国中的第一名。"
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/food1.jpg"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "食物与癌症的关系很微妙——加工不当就会致病，吃的太多会生病，不吃也会生病。"
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "1、肝癌：喝酒、吃霉变食物",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "过量饮酒→酒精性肝炎→酒精性肝硬化→肝癌"
+							},{
+								"type": "txt",
+								"font": "medium",
+								"content": "霉变食物中含有强致癌物质——黄曲霉毒素，可诱发肝癌"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "霉变的玉米、花生、米、豆类；保存不当的豆腐乳、豆瓣酱；质量不过关的花生油等"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "2、胃癌：常吃腌、烤、熏食物",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "熏制食物里含有较多的亚硝酸盐，进入胃里，会变成亚硝胺而被吸收，易诱发细胞癌变。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "肉类、脂肪在高温熏制、油炸或烧烤的过程中会产生另一种致癌物质——苯并芘，煎炸越久，苯并芘的含量越高。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "3、食管癌：太烫、太硬、太辣的食物",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "口腔和食管黏膜能耐受的高温在50~60°C，超过65°C便会烫伤黏膜。经常吃烫食，容易对食管黏膜细胞形成反复不良刺激，诱发细胞癌变。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "4、肠癌：吃荤太多，吃素太少",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "肉类摄取过多，多余的营养物质就成为细菌的温床"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "肉类、脂肪在高温熏制、油炸或烧烤的过程中会产生另一种致癌物质——苯并芘，煎炸越久，苯并芘的含量越高。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "5、乳腺癌：高脂肪饮食",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "高脂肪饮食、营养过剩或肥胖、嗜食甜食是乳腺癌的主要诱因。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "乳腺癌的发生还和不良情绪有关，长期处在不良情绪中，可影响体内激素的平衡，从而引起乳腺癌变。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "6、胰腺癌——高糖食物",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "过多地摄入糖、冷饮、甜水果汤，都与胰腺癌发病率呈正比关系。经常进食糖类和高糖食物，可能会引起频繁的餐后高糖血症，增加对胰岛素的需求，降低胰岛素的敏感性，以致患胰腺癌的风险升高"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "7、口腔癌——吸烟、爱嚼槟榔",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "国际癌症研究中心将槟榔定为“一级致癌物”，嚼槟榔跟口腔癌关系密切，因为槟榔碱对口腔黏膜的损害和刺激。吸烟也是口腔癌发生的主要危险因素之一，烟中的有毒物质会直接刺激口腔黏膜，诱发癌变。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "8、肺癌——吸烟、高温烹饪",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "烟草中含有多种可致癌的芳香胺衍生物，吸烟时间越长、量越大，发生肺癌的危险性越高。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "在营养学中把食物按照金字塔的方式排列起来："
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "油脂类属于金字塔的最顶端，每天不超过25克。而第二层，是奶制品、豆制品以及鱼禽肉蛋的天下。其中，奶制品每天需要100克，豆制品每天需要50克，鱼禽肉蛋每天大约要吃125—200克。在金字塔的第三层，我们所需要的就是水果类和蔬菜类。在这里，蔬菜类每天要400—500克而水果类每天则要100—200克。最后，这个五谷类，属于金字塔第四层，也是最底部，每天约要300—500克，是我们最不可缺少的。"
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/food2.jpg"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "据报道根据这种新饮食指南进行饮食生活的人，其患主要慢性病的比率比其他人低，",
+						"afterChild": "主要是由于患心血管疾病的比率大幅度下降了，其中女性下降了30%，男性下降了40%。"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "不过，按“新金字塔”选择饮食并没有降低癌症的发病率。保持体重和锻炼（而不是选择特定的食物）将有助于减少患上很多种癌症的危险性。"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "看来癌症发病病因不仅仅与饮食有关联，还与自身基因、生活方式、心情、遗传因素都有关系。"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "很多小毛小病可以通过饮食习惯改善，但是定期体检，随时了解自己的身体状态，才能更好地进行针对性的调理改善，同时也能对一些不易发现的疾病，做到早发现早治疗，将其扼杀在病程早期。"
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/contact.png"
+					}
+				]
+			}, {
+				"id": 2,
+				"title": "日本做肠镜攻略，肠镜检查再也不用怕了！",
+				"headImg": "../images/healthy/healthy_2.jpg",
+				"banner": "../images/healthy/page/food.png",
+				"description": "前不久在国内某第三方较大的挂号平台上看见一篇文章。文章的作者是一位国内消化内科的医生，文章大概的内容是在分析如何看待去日本做肠镜这件事。小璞想带大家好好了解一下日本肠镜检查。",
+				"detail": [
+					{
+						"type": "img",
+						"content": "../images/healthy/page/changjing1.png"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "国内的就医大环境的确如消化医生所说的那样，医务工作者实在太忙，很多细节无法兼顾。在做肠镜前，日本是有条件做到排便后护士仔细查看排便情况，直到可以做肠镜为止。国内真的无法做到在院排便并一一检查，但肠道准备工作做得好，会直接影响到检查的结果，效果非常直观。"
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/changjing2.jpg"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "文中还有一处，值得拿出来说说——"
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "国内的肠镜检查与日本的肠镜检查结果有所出入。国内肠镜检查结果并没有大碍，在日本反而检出一个息肉，日本医生当即判断为良性息肉，日本医生对镜下良恶性病变判断的研究要比国内先进不少，国内医生承认现在用于临床的一些方法多半也来源于日本。"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "文中国内医生也举例反证了检查结果与检查水平有直接关系。消化医生自己经手的从基层的检查结果为1个息肉到他们医院检查后直接升级到5个息肉，不得不承认国内医生工作量较多，很容易出现漏诊早期癌症的情况。日本在防癌体系一直高于亚洲其他国家，持续排名世界前端。"
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/changjing3.jpg"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "去日本做肠镜，你需要找靠谱的体检代理机构，有一定的时间准备。"
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "日本肠镜流程",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "1. 检查前一天门诊：用户需要在体检机构工作人员的陪同下，去医院进行体检前检查，配合抽血，并领取肠镜需要的专用清肠药物。填写问诊表，配合医生完善个人体检病历。沟通协商后签署检查同意书。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "2. 日本肠镜体检 一共发放2种清肠药物，一种是需要在肠镜检查前一晚服用的清肠药物，另一种是在肠镜检查当天早上服用的排气药物。这2种药物的服用时间都有严格的规定，体检者需要严格遵守服用时间的规定。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "3. 肠镜检查前一天晚上和当天的饮食都有严格的限制，医院会准备特殊代餐。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "4. 检查当天，护士会引导对清肠药物的使用，会实时观察排便次数与性状，直至达到检查标准。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "5. 检查前，护士会注射镇定剂，操作过程大约半小时。检查结束后，医生会详细的对肠镜结果进行说明和解释，检出的息肉会尊重客户是否选择活检。活检报告大约一周后送到客户手中。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "肠镜检查禁忌症",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "1. 腹腔动脉瘤"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "2. 有腹膜炎或肠穿孔"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "3. 严重的心、脑、血管病变者"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "4. 活动性出血性结肠病变"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "5. 急性放射性结直肠炎"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "6. 晚期癌肿伴盆腔转移或明显腹水者"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "7. 腹部或盆腔手术后有严重和广泛肠粘连者"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "8. 女性三期"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "9. 严重出凝血功能异常者"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "10. 患有精神疾病或严重智力障碍者等不配合内镜检查者"
+							}
+						]
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/contact.png"
+					}
+				]
+			}, {
+				"id": 3,
+				"title": "还在疑惑，一文带你了解影像学检查",
+				"headImg": "../images/healthy/healthy_2.jpg",
+				"banner": "../images/healthy/page/food.png",
+				"description": "相信不少人都有生病时或体检时，做过很多影像仪器的检查，但并不了解这些仪器对自己有什么帮助。小璞今天想给大家科普一些关于影像学检查的相关知识。",
+				"detail": [
+					{
+						"type": "txt",
+						"font": "medium",
+						"content": "X光、B超、CT、核磁共振，在临床上对医生起到诊断疾病的辅助作用，有时也是关键性作用。"
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "X线成像原理",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "X线是一种波长很短的电磁波。波长范围为0.0006～50nm。X线之所以能使人体在荧屏上或胶片上形成影像，一方面是基于X线的特性，即其穿透性、荧光效应和摄影效应；另一方面是基于人体组织有密度和厚度的差别。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "X线穿透低密度组织时，被吸收少，剩余X线多，使X线胶片感光多，经光化学反应还原的金属银也多，故X线胶片呈黑影。"
+							},{
+								"type": "img",
+								"content": "../images/healthy/page/yingxiang1.jpg"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "优点：成像清晰，对比度及清晰度均较好；不难使密度、厚度较大或密度、厚度差异较小部位的病变显影。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "缺点：受制于组织深浅的影像相互重叠，有时需要多次多角度拍摄才能看清。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "CT成像原理",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "CT是用X线束对人体某部一定厚度的层面进行扫描，由探测器接收透过该层面的X线，转变为可见光后，由光电转换变为电信号，再经模拟/数字转换器（analog/digital converter）转为数字，输入计算机处理。利用X线机穿透人体呈现3D图像，空间分辨率没有X线高。"
+							},{
+								"type": "img",
+								"content": "../images/healthy/page/yingxiang2.jpg"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "优点：CT检查对中枢神经系统疾病的诊断价值较高，应用普遍。螺旋CT扫描，可以获得比较精细和清晰的血管重建图像。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "缺点：CT设备比较昂贵，检查费用偏高，某些部位的检查，诊断价值，尤其是定性诊断，还有一定限度。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "B超成像原理",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "在医学临床上应用的超声诊断仪的许多类型，如A型、B型、M型、扇形和多普勒超声型等。B型是其中一种，而且是临床上应用最广泛和简便的一种。通过B超可获得人体内脏各器官的各种切面图形比较清晰。B超比较适用于肝、胆肾、膀胱、子宫、卵巢等多种脏器疾病的诊断。B超检查的价格也比较便宜，又无不良反应，可反复检查。/数字转换器（analog/digital converter）转为数字，输入计算机处理。利用X线机穿透人体呈现3D图像，空间分辨率没有X线高。"
+							},{
+								"type": "img",
+								"content": "../images/healthy/page/yingxiang3.jpg"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "优点：B超检查在胆道疾病中具有较高的诊断价值，对受检者无痛苦、无损伤、无放射性，即时成像。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "缺点：穿透力弱，对骨骼、空气等很难达到深部，所以对含气性器官，如肺，胃肠等难以探测，对成人颅脑的诊断也较X线、CT逊色。对1厘米左右的肿瘤组织不易检出，故超声检查阴性；并不排除1厘米左右的肿瘤病灶的存在。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "核磁共振成像原理",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "核磁共振检查又称磁共振成像（简称MRI），是继CT后医学影像学的又一重大进步。利用脉冲（电磁波）与磁场的相互作用，产生图像。可多方位成像，以及对软组织有高分辨力等突出的特点。"
+							},{
+								"type": "img",
+								"content": "../images/healthy/page/yingxiang4.jpg"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "优点：对软组织的反差大，具有高分辨力。无电离辐射，可多方位、多层面成像。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "缺点：颅内有银夹及眼球内金属异物者禁止做检查，身体检查部位有金属物件，无法做此检查。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "影像学日常检查的应用",
+						"children": [
+							{
+								"type": "txt",
+								"font": "medium",
+								"content": "1. 肺部疾病 — 胸片（X线）+胸部CT",
+								"children": [
+									{
+										"type": "txt",
+										"font": "Regular",
+										"content": "初步筛查肺部疾病可选用胸片，较为快捷方便。胸片对于纵膈属于盲区，往往也容易被忽视。结合胸部CT能准确查出纵膈及肺部病症。"
+									}
+								]
+							},{
+								"type": "txt",
+								"font": "medium",
+								"content": "2. 心脏疾病 — B超",
+								"children": [
+									{
+										"type": "txt",
+										"font": "Regular",
+										"content": "心脏B超是唯一能动态显示腔内结构，心脏的搏动和血液流动的仪器。检查比较便捷,可以快速准确的检查出心脏的健康状况。"
+									}
+								]
+							},{
+								"type": "txt",
+								"font": "medium",
+								"content": "3. 头部疾病 — 核磁共振MRI",
+								"children": [
+									{
+										"type": "txt",
+										"font": "Regular",
+										"content": "磁共振成像（MRI）检查，由于对软组织滑膜、血管、神经、肌肉、肌腱、韧带、和透明软骨的分辨率高，颅脑的检查最合适了，没有电离辐射，成像清晰。"
+									}
+								]
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "当然最重要的是听医生的，医生拥有丰富的专业知识与临床经验，对于疾病的判断也是有一定的依据。无论是就医看病还是常规体检，选择专业的医生，遵从医生的建议准没错。"
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/contact.png"
+					}
+				]
+			}, {
+				"id": 4,
+				"title": "癌症也会传染？如何提防“家族癌”",
+				"headImg": "../images/healthy/healthy_2.jpg",
+				"banner": "../images/healthy/page/gongjing.jpg",
+				"description": "美国发布的《美国2018癌症数据报告》中，提出“家庭癌”的防治较为重要。很多人都知道癌症是无法治愈的，但不知道一些恶性癌症甚至是有遗传性或传染性的。到底哪些癌症会直接影响到下一代或者家人的健康呢？",
+				"detail": [
+					{
+						"type": "txt",
+						"font": "Regular",
+						"content": "梅艳芳在2003年不幸因宫颈癌去世，但是很多人不知道，梅艳芳兄妹4人都是癌症患者。她的姐姐梅爱芳也是因为宫颈癌去世。"
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/jiazu2.jpg"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "很多社会新闻中，一家人有一个患胃癌，其他都跑不掉。这与一家人的生活饮食习惯密不可分，恰巧幽门螺杆菌的主要传播途径就是共餐。早期的胃癌容易与其他疾病混淆，大多数胃癌患者被诊断出都是中期接近晚期，这就是为什么每年有十几万人死于胃癌的原因。"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "著名影星安吉丽娜朱莉患有乳腺癌，切除双乳这一消息曾震惊一时，据报道朱莉的母亲是因乳腺癌去世的。朱莉先后将自己的乳房与卵巢均切除，因自己会得这2种癌症的几率非常高。"
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "什么是“家族癌”？"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "“家族癌”是指一个家系中恶性肿瘤的发病率高(约20%)，发病年龄较早，通常按常染色体显性方式遗传，以及某些肿瘤(如腺癌)发病率很高等。"
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/jiazu3.jpg"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "家族性癌是指一个家族内多个成员患同一类型的肿瘤，例如，12%~25%的结肠癌患者有肠癌家族史。许多常见肿瘤如乳腺癌、肠癌、胃癌等，通常是散发的，但一部分患者有明显的家族史。"
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "以下是一些可能会影响到亲友的疾病",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"beforeChild": "1. 结直肠癌 ",
+								"content": "有一种称为家族性腺瘤性息肉的疾病，很容易发展成为肠癌。据观察，在家庭中如果父母患有因上述疾病导致的结肠癌，其子女患上同类癌症的可能性高达50%。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"beforeChild": "2. 乳腺癌 ",
+								"content": "家族中母亲或姐妹曾患有乳腺癌的妇女，其本人乳腺癌的发病机会比一般妇女高3倍。如有两位近亲患乳腺癌，则患病率将增加7倍。如果家族中有多名年龄较小（低于50岁）就发生乳腺癌的患者，那么很可能是家族乳腺癌基因，你很可能就是高危人群。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"beforeChild": "3. 视网膜母细胞瘤 ",
+								"content": "某些视网膜母细胞瘤也与遗传缺陷有关。这是一种恶性肿瘤，好发于儿童，大约1/3的患者双侧发生，而且都是显性遗传，就是说一家祖孙几代中都有这种病。另2/3仅单侧发生，其中也有大约10%是遗传性的。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"beforeChild": "4. 肺癌 ",
+								"content": "肺癌的主因就是吸烟，但遗传因素也具有一定作用。有研究报告显示，近亲中患有肺癌的，如果本人再吸烟，那么他患肺癌的风险比一般人高出14倍。一项日本的调查也证明，35.8%的肺鳞状细胞癌具有家族史;58.3%肺泡细胞癌女性患者具有家族史。还有人发现，有肺癌家族史且爱吸烟的女性，患癌风险是常人的5倍多。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"beforeChild": "5. 肝癌 ",
+								"content": "父母一方患肝癌，子女患肝癌的几率特别大。如果母亲携带乙肝病毒，后代发生肝癌的几率格外高。乙肝病毒（HBV）有传染性，它能通过血液传播，包括被HBV感染的血液、血制品、不洁注射器等；也能通过母婴、性生活等途径传播。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"beforeChild": "6. 胃癌 ",
+								"content": "在所有的胃癌患者中，有5%～10%是属于遗传性胃癌，也就是父母的基因遗传给自己的。其中比例最多的要数遗传弥漫型胃癌，因为是常染色体显性遗传疾病。胃癌家族人群比其他人患胃癌的几率高出2-3倍。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"beforeChild": "7. 鼻咽癌 ",
+								"content": "鼻咽癌有明显的种族易感性、家族倾向性和地区聚集性。但它并不是患上鼻咽癌的唯一原因，还需要加上其他诱因才会形成癌症。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"beforeChild": "8. 甲状腺癌 ",
+								"content": "非髓样甲状腺癌占所有甲状腺癌的95%以上，而且非髓样甲状腺癌一般会呈现家族聚集现象。家族性甲状腺非髓样癌属于甲状腺非髓样癌的一部分，其遗传比例相对较高，一定要提高警惕，及早预防。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"beforeChild": "9. 宫颈癌 ",
+								"content": "宫颈癌的家族遗传倾向虽不明显，但是若家中有人罹患子宫颈癌，则其他女士成员的患病率将大大增加，这被人称之为亲友型疾病。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"beforeChild": "10. 前列腺癌 ",
+								"content": "虽然前列腺癌的病因并不明确，也不是一种遗传病，但它却有一定的家族遗传倾向。家族有人患病，家人患前列腺癌的风险要比前者高2-3倍。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/jiazu1.jpg"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "很多疾病的早期症状都不易被发现，所以定期体检显得尤为重要，为了您和家人的健康，可以选择医疗技术好一点的机构进行体检，让疾病早发现早治疗，最大程度地把疾病扼杀在早期。"
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/contact.png"
+					}
+				]
+			}, {
+				"id": 5,
+				"title": "宫颈癌筛查要注意什么？",
+				"headImg": "../images/healthy/healthy_2.jpg",
+				"banner": "../images/healthy/page/food.png",
+				"description": "宫颈癌作为女性第二大癌症，很多人认为这是老年妇女的专属，与我们年轻人没什么关系，然而，事实却并非如此！",
+				"detail": [
+					{
+						"type": "txt",
+						"font": "Regular",
+						"content": "宫颈癌是最常见的妇科恶性肿瘤。",
+						"afterChild": "原位癌高发年龄为30～35岁，浸润癌为45～55岁，近年来其发病有年轻化的趋势。"
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/gongjing3.jpg"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "90%以上宫颈癌的主要感染因素就是HPV。 HPV是其英文简写(Human Papillomavirus)，全称人类乳头瘤病毒。属DNA病毒，人皮肤和粘膜上皮细胞是其宿主，在组织细胞内以复制的方式进行繁殖，无法在体外的组织培养和细胞培养中生长，也不能在实验动物中接种生长。"
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "宫颈癌的筛查方式"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "近年来随着人们对健康的关注，不少人有定期体检的好习惯，已婚女士都会有些专属的检查。其中宫颈癌筛查是必不可少的。"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "针对宫颈癌筛查有效的检查有：HPV检查、TCT、宫颈刮片。宫颈癌筛查的检查这么多，我是不是随便选个就可以达到很好的筛查效果了呢？"
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/gongjing2.jpg"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"beforeChild": "HPV检查",
+						"content": "则主要检测人是否携带有HPV病毒，可通过染色镜检法、HPV的DNA检测法或血清学试验来检查是否感染了HPV。"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"beforeChild": "宫颈刮片",
+						"content": "是指从子宫颈部取少量的细胞样品，放在玻璃片上，然后在显微镜下研究是否异常。"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"beforeChild": "TCT检查",
+						"content": "是液基薄层细胞检测的简称，采用液基薄层细胞检测系统检测宫颈细胞并进行细胞学分类诊断，它是目前国际上最先进的一种宫颈癌细胞学检查技术，与传统的宫颈刮片巴氏涂片检查相比明显提高了标本的满意度及宫颈异常细胞检出率。"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "单独做HPV或TCT筛查基本已经满足宫颈癌筛查的要求，但还是存在10-20%左右的漏诊率。如果两者一起做，漏诊率就会明显降低，大概只剩下5%左右。所以，如果经济条件允许，两者一起筛查是最好的。"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "宫颈刮片是目前广泛检查子宫颈癌最简便有效的诊断方法，它使子宫颈癌的死亡率至少降低了 70%。但精确度不如TCT准确。"
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/gongjing1.jpg"
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "检查前注意事项",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "1、检查当日清晨排空大便，检查前10分钟排空小便。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "2、若是正在进行妇科阴道上药治疗的妇女应至少停药2天再接受检查。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "3、避开月经期，如有阴道不规则出血，尤其是尽经后出血，必须进行检查的，要告诉医生情况，医生严格消毒后可以进行检查。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "4、进行宫颈脱落细胞学检查前48小时，不要有性生活，避免阴道冲洗，否则不能真实反映宫颈的情况。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "5、若没有过性行为的女士原则上无需做宫颈癌筛查，不做妇科内诊，若因他因素必须要做，须请提前告知医生。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "6、检查时一定要放松心情、以平常心对待,因紧张感会让阴道和宫颈的肌肉会收缩变小，这样医生取样的时候就会变困难，而且受检者也会有不适感。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "补充说明一下，感染宫颈癌的剩下10%因素：",
+						"children": [
+							{
+								"type": "txt",
+								"font": "Regular",
+								"content": "1、性行为及分娩次数：多个性伴侣、初次性生活<16岁、初产年龄小、多孕多产等与宫颈癌发生密切相关。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "2、其他生物学因素：沙眼衣原体、单纯疱疹病毒II型、滴虫等病原体的感染在高危HPV感染导致宫颈癌的发病过程中有协同作用。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "3、其他行为因素：吸烟作为HPV感染的协同因素可以增加子宫颈癌的患病风险。另外，营养不良、卫生条件差也可影响疾病的发生。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/contact.png"
+					}
+				]
+			}, {
+				"id": 6,
+				"title": "尿液变色？是你的身体在报警！",
+				"headImg": "../images/healthy/healthy_2.jpg",
+				"banner": "../images/healthy/page/gongjing.jpg",
+				"description": "水是人必不可少的东西，通过喝水来促进人体的正常运作。那么排泄最多的应该也是尿液了，尿多尿少，小到干燥上火，大到肾脏衰竭，这些都会在尿液上体现出来。",
+				"detail": [
+					{
+						"type": "img",
+						"content": "../images/healthy/page/niaoye1.jpg"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "小璞这节课想说说尿液的颜色、性状、密度的不同所反应出我们身体的状况。"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"beforeChild": "正常人的尿液呈现淡黄色，",
+						"content": "含有水和微量的无机盐、尿素和尿酸，基本上不含糖分和蛋白质，尿质清澈无异物，只有氨味无异味，即使有气泡也会很快消失。"
+					},{
+						"type": "txt",
+						"font": "medium",
+						"content": "乳白色尿  感染",
+						"children": [
+							{
+								"type": "txt",
+								"font": "medium",
+								"content": "乳糜尿（chyluria）"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "乳糜液或淋巴液进入尿液，使尿液颜色呈现乳白色。乳糜液的主要成分是脂肪微粒、卵磷脂、胆固醇、甘油三酯等。乳糜尿需通过乳糜试验进行鉴定，同时含有较多的血液称为血性乳糜尿。乳糜尿常见于丝虫病、腹腔或淋巴管结核、肿瘤压迫胸导管和腹腔淋巴管导致淋巴管破裂，淋巴液溢入尿中。"
+							},{
+								"type": "txt",
+								"font": "medium",
+								"content": "脓尿(pyuria)"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "尿中还有大量脓细胞或炎性渗出物，新鲜尿液可呈白色混浊，加酸或加热混浊不会消失，静置后会出现絮状沉淀。多见于肾盂肾炎、膀胱炎、尿道炎等泌尿系统的感染性疾病。"
+							},{
+								"type": "txt",
+								"font": "medium",
+								"content": "菌尿(bacteriuria)"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "新鲜尿中含有大量细菌并出现的云雾状混浊，加酸或加热混浊不会消失，静置后不出现沉淀。常见于肾盂肾炎、膀胱炎、尿道炎等泌尿系统的感染性疾病。"
+							},{
+								"type": "txt",
+								"font": "medium",
+								"content": "盐类结晶"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "尿中含有较多的盐类结晶可使尿液呈现灰白色或白色混浊，其主要成分有磷酸盐和碳酸盐结晶，尿液多呈碱性，与过多食用植物性食物有关。加热后混浊增加，再加酸，如混浊消失并产生气泡为碳酸盐，如混浊消失且无气泡产生多为磷酸盐结晶，如混浊增加则为菌尿或脓尿。"
+							},{
+								"type": "txt",
+								"font": "medium",
+								"content": "褐色尿  肌溶解"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "运动时会造成肌肉损伤，这是十分正常的情况，但过量运动造成细胞被破坏，细胞里的肌红蛋白进入血液，尿液便会呈现异常的深褐色。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "人体在超出负荷的剧烈运动之后，肌红蛋白大量溶解在血液中，溶解过多，在肾脏里造成堵塞，不能迅速排出去，就会引发急性肾衰竭，这是一种肌溶解的症状，肾脏衰竭又使得血压飙升，不仅会让人昏倒，更有可能让神经系统出现重大问题。"
+							},{
+								"type": "txt",
+								"font": "medium",
+								"content": "蓝色尿 服用药物"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "可见于霍乱、斑疹伤寒，以及原发性高血钙症、维生素d中毒者。但这种颜色的尿多与服药有关，并非疾病所导致，停药之后就会消失。这种因服药而引起的蓝色尿属于正常观象，不需要太担忧。"
+							},{
+								"type": "txt",
+								"font": "medium",
+								"content": "浓茶色尿 肝炎早期"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "胆汁向外排的道路通常有两条：一条从尿里出来，一条从肠道里出来。当肝脏或胆囊有病，胆汁到肠道的路被切断，就只能从尿里排出来，尿液里也因胆汁的含量增加而呈深黄色了。肝炎的早期，还没有出现黄疸时，我们常常可以看到小便的颜色像浓茶似的，这往往是肝炎的一个信号。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "如果尿液颜色呈现非暂时性的变黄加深，就要及时到医院检查就医，在患病早期就抓紧治疗机会。"
+							},{
+								"type": "txt",
+								"font": "medium",
+								"content": "血尿 泌尿系统疾病"
+							},{
+								"type": "img",
+								"content": "../images/healthy/page/niaoye4.jpg"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "血尿又分为两大类，一种是肾炎引起的血尿，称为内科性血尿，一种是泌尿系统出血引起的，称为外科性血尿，特别是后者，常见病因包括泌尿系统的感染、结石甚至是肿瘤。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "值得注意的是红色尿并不等于血尿，排除药物和食物因素，血尿中每升（m）含有1毫升（ml）血液,是一种肉眼可见的血色，医学上称为肉眼血尿，患者自己就能够发现。当排尿时长期出现血尿并且没有好转迹象时，一定要立刻去医院检查泌尿系统，不要耽误治疗时机。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "正常人尿中无或仅有极少量红细胞，当每升尿液中含血量超过1ml时,尿液可呈淡红色、洗肉水样或血样尿，称为肉眼血尿（hematuria）。血尿多见于肾或泌尿系统结石、肿瘤、外伤、重症肾小球疾病、肾盂肾炎、膀胱炎、肾结核、多囊肾、血小板减少性紫癜及血友病患者。剧烈运动后可偶然出现一过性血尿。"
+							},{
+								"type": "txt",
+								"font": "medium",
+								"content": "泡沫尿 肾炎"
+							},{
+								"type": "img",
+								"content": "../images/healthy/page/niaoye3.jpg"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "不能被很好的过滤和吸收，以至于尿液里混有微量的蛋白质，所以又称蛋白质尿，这是肾炎早期的现象。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "除了尿液的颜色改变，也可以从气味来判断身体的状况正常尿液内的挥发酸，放置后出现氨臭味。若出现恶臭味判断90%受到细菌感染。糖尿病酮症酸中毒的患者尿味呈烂苹果味。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "在常规的尿液检查中，一些检查项目对于尿液的检出是具有意义的：",
+						"children": [
+							{
+								"type": "txt",
+								"font": "medium",
+								"content": "尿蛋白"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "尿蛋白是尿常规最重要的指标之一。如果1周内连续3次检测晨尿尿常规都发现尿蛋白>+，应考虑“蛋白尿”。"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "蛋白尿分生理性和病理性两大类。生理性的蛋白尿常见于瘦长体型的儿童，尿蛋白与体位可能相关，站立时增多，平躺时减少，此外剧烈运动、寒冷或高热等感染时也可出现一过性蛋白尿；而病理性蛋白尿反映肾脏疾病，常见于肾小球性蛋白尿或肾小管性蛋白尿，需进一步检测确诊。"
+							},{
+								"type": "txt",
+								"font": "medium",
+								"content": "尿白细胞"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "白细胞是与尿路感染密切相关的指标。正常人尿中有少数白细胞存在，离心尿液后显微镜下观察小于5个/高倍视野。如果存在大量白细胞，表示存在泌尿道感染，如肾盂肾炎、膀胱炎及尿道炎等。"
+							},{
+								"type": "txt",
+								"font": "medium",
+								"content": "尿潜血"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "尿潜血指尿中的血红蛋白，凡是引起血管内溶血及血尿的疾病均可出现尿潜血异常。尿潜血异常说明泌尿系统存在出血。根据血尿的程度和多少分为镜下血尿和肉眼血尿。血尿常见于急性肾小球肾炎、IgA肾病、遗传性肾炎、泌尿道感染、肾结核、肾结石、肾肿瘤等。"
+							},{
+								"type": "img",
+								"content": "../images/healthy/page/niaoye2.jpg"
+							},{
+								"type": "txt",
+								"font": "Regular",
+								"content": "尿量也是一些疾病的预警，正常人24小时尿量在1500-2000ml之间。24小时尿量少于400ml或每小时不足17ml称为少尿。24小时尿量少于100ml称为无尿，肾前性见于休克、失水、电解质紊乱；肾性见于急慢性肾炎，急性肾小管坏死；肾后性见于结石、肿瘤等各种原因所致的尿路梗阻。24小时尿量超过2500ml称为多尿，见于生理性多尿、内分泌疾病、肾脏疾病等。"
+							}
+						]
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "身体出现问题其实都会给我们发出求救信号，遇到这种信号的发出，我应该根据相应的情况进行就医。或是你不明白这些信号代表着什么，可后台咨询小璞，把自己的问题描述清楚后会收到回复。"
+					},{
+						"type": "txt",
+						"font": "Regular",
+						"content": "整理自网络"
+					},{
+						"type": "img",
+						"content": "../images/healthy/page/contact.png"
+					}
+				]
+			}
+		]
+	}
+}
