@@ -17,25 +17,28 @@
 			"healthy": [
 				{
 					"headImg": "../images/carousel/healthy-1.jpg",
-					"title": "日本做肠镜优势"
+					"title": "日本做肠镜优势",
+					"id": 2
 				},{
 					"headImg": "../images/carousel/healthy-2.jpg",
-					"title": "食物与癌症的关系"
+					"title": "食物与癌症的关系",
+					"id": 1
 				},{
 					"headImg": "../images/carousel/healthy-3.jpg",
-					"title": "影像学检查"
+					"title": "影像学检查",
+					"id": 3
 				}
 			],
 			"hospital": [
 				{
-					"headImg": "../images/carousel/c_index_1.png",
-					"title": "为什么胰腺癌被称为癌中之王1"
+					"headImg": "../images/carousel/carousel-index-1.jpg",
+					"title": "日本银座健康院一日体检套餐"
 				},{
-					"headImg": "../images/carousel/c_index_1.png",
-					"title": "为什么胰腺癌被称为癌中之王2"
+					"headImg": "../images/carousel/carousel-index-2.jpg",
+					"title": "泰璞健康知识小讲堂"
 				},{
-					"headImg": "../images/carousel/c_index_1.png",
-					"title": "为什么胰腺癌被称为癌中之王3"
+					"headImg": "../images/carousel/carousel-index-3.jpg",
+					"title": "泰璞健康日本体检案例"
 				}
 			]
 		}
