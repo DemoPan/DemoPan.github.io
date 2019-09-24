@@ -11,7 +11,7 @@
 				"authentication": "images/hospital/kenkoin/kk-tp.png",
 				"logo": "images/hospital/kenkoin/kk_logo_c.png",
 				"address": "东京 とうきょう",
-				"level": "日本特定功能医院(类似国内三甲级别)知名肿瘤医院"
+				"level": "一家专注于“预防医疗”，以疾病防御为目的综合性诊所"
 			},{
 				"headImg": "images/hospital/jfcr/jfcr_headimg.jpg",
 				"headLogo": "images/hospital/jfcr/jfcr_logo.png",
@@ -31,7 +31,7 @@
 				"authentication": "images/hospital/ncgm/ncgm-tp.png",
 				"logo": "images/hospital/ncgm/ncgm_logo_c.png",
 				"address": "大阪 おおさか",
-				"level": "特定功能医院(类似国内三甲级别)"
+				"level": "日本首家实施综合体检的医院"
 			}
 		]
 	}
