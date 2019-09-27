@@ -10,7 +10,7 @@
 				"detail": "坐落在东京银座的健康院诊疗院是以“不患病”为目的专业医疗机构。为实现防止未来患疾病的“预防医疗”、谨慎认真的对身体进行多项检查。运用高性能的检查设备,为国内外的贵宾",
 				"authentication": "images/hospital/kenkoin/kk-tp.png",
 				"logo": "images/hospital/kenkoin/kk_logo_c.png",
-				"address": "东京 とうきょう",
+				"address": "东京",
 				"level": "一家专注于“预防医疗”，以疾病防御为目的综合性诊所"
 			},{
 				"headImg": "images/hospital/jfcr/jfcr_headimg.jpg",
@@ -20,7 +20,7 @@
 				"detail": "癌研有明医院成立于1934年，位于日本东京，是日本较早研究治疗癌症的机构——癌研会的附属医院。医院拥有强大的医疗团队……",
 				"authentication": "images/hospital/jfcr/jfcr-tp.png",
 				"logo": "images/hospital/jfcr/jfcr_logo_c.png",
-				"address": "东京 とうきょう",
+				"address": "东京",
 				"level": "日本厚生劳动省权威在册 特定功能医院（类似国内三甲级别）"
 			},{
 				"headImg": "images/hospital/ncgm/ncgm_headimg.jpg",
@@ -30,7 +30,7 @@
 				"detail": "日本国立国际医疗研究中心始建于1868年,最初是一家陆军医院,于1945年移交给厚生省,称为东京第一医院。于2004年设立国际医疗中心,与2008年整合为现在的名称。现在直属...",
 				"authentication": "images/hospital/ncgm/ncgm-tp.png",
 				"logo": "images/hospital/ncgm/ncgm_logo_c.png",
-				"address": "大阪 おおさか",
+				"address": "大阪",
 				"level": "日本首家实施综合体检的医院"
 			}
 		]
