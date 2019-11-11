@@ -1,0 +1,572 @@
+{
+	"code": 1,
+	"data": {
+		"list": [
+			{
+				"id": 1,
+				"title": "为什么要选择日本体检？",
+				"headimg": "../images/server/experience.jpg",
+				"details": [
+					{
+						"type": "img",
+						"content": "../images/server/experience/e1.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "近几年，日本体检深受国人青睐，很多人都知道日本体检好，但是却不清楚日本体检究竟哪里好，日本体检与国内体检的真正区别是什么？为什么这么受欢迎？一起来了解一下吧！"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "日本体检和国内体检究竟有何不同之处？"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "1. 防癌现状"
+							}
+						]
+					}, {
+						"type": "table",
+						"content": {
+							"th": [
+								{
+									"font": "medium",
+									"align": "center",
+									"content": "国内体检"
+								},{
+									"font": "medium",
+									"align": "center",
+									"content": "VS"
+								},{
+									"font": "medium",
+									"align": "center",
+									"content": "日本精密体检"
+								}
+							],
+							"tr": [
+								{
+									"font": "regular",
+									"align": "",
+									"content": "防癌等级处于三级（相当于发达国家八十年代水平）"
+								},{
+									"font": "medium",
+									"align": "center",
+									"content": "防癌状况"
+								},{
+									"font": "regular",
+									"align": "",
+									"content": "防癌等级处于一级，实现早发现早治疗，预计可以消除2/3的癌症"
+								}
+							]
+						}
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "国内："
+							},{
+								"font": "regular",
+								"align": "",
+								"content": "尚未形成系统完善的防癌检查体系，缺乏癌症早期发现能力，检查只能发现主要的大症状癌症，80%以上的癌症发现处于中晚期，平均治愈率低下；"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "日本："
+							},{
+								"font": "regular",
+								"align": "",
+								"content": "有系统的防癌检查体系， 综合性完备的检查方法，对同一癌症设置多重检查方案，检查可以发现和筛查已知的全部300多种癌症，80%的癌症发现处于早初期，平均治愈率居世界前列。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "2. 仪器设备"
+							}
+						]
+					}, {
+						"type": "table",
+						"content": {
+							"th": [
+								{
+									"font": "medium",
+									"align": "center",
+									"content": "国内体检"
+								},{
+									"font": "medium",
+									"align": "center",
+									"content": "VS"
+								},{
+									"font": "medium",
+									"align": "center",
+									"content": "日本精密体检"
+								}
+							],
+							"tr": [
+								{
+									"font": "regular",
+									"align": "",
+									"content": "高精设备人均占有率低"
+								},{
+									"font": "medium",
+									"align": "center",
+									"content": "仪器设备"
+								},{
+									"font": "regular",
+									"align": "",
+									"content": "高精设备人均占有率高"
+								}
+							]
+						}
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "国内："
+							},{
+								"font": "regular",
+								"align": "",
+								"content": "全国目前拥有PET-CT设备医院115家,拥有设备不足200台;医院或体检中心不具备研制显影剂技术,药剂经运输后灵敏度大幅降低；制剂精度为肿瘤标志物6、7种；"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "日本："
+							},{
+								"font": "regular",
+								"align": "",
+								"content": "日本目前共设立PET-CT健诊中心或医院390多所，设备总量超过1000台;研制的设备在国际市场拥有很大份额，占中国市场的36.8% ;能独立制造PET专用显影药剂，制药先进,现配现用,保证敏感性；制剂精度为肿瘤标志物20余种。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "3. 医生状况"
+							}
+						]
+					}, {
+						"type": "table",
+						"content": {
+							"th": [
+								{
+									"font": "medium",
+									"align": "center",
+									"content": "国内体检"
+								},{
+									"font": "medium",
+									"align": "center",
+									"content": "VS"
+								},{
+									"font": "medium",
+									"align": "center",
+									"content": "日本精密体检"
+								}
+							],
+							"tr": [
+								{
+									"font": "regular",
+									"align": "",
+									"content": "普通放射科或退休大夫"
+								},{
+									"font": "medium",
+									"align": "center",
+									"content": "医生状况"
+								},{
+									"font": "regular",
+									"align": "",
+									"content": "专业十年以上的经验体检科医生"
+								}
+							]
+						}
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "国内："
+							},{
+								"font": "regular",
+								"align": "",
+								"content": "最好的医生是在手术台上，国内的体检中心在各个医院中的地位不是特别高，且由于医疗资源相对紧缺，最好的医生只能派往治疗环节，大多数体检中心体检人员都是普通放射科或退休大夫，未形成系统完善的医生团队，缺少对早、初期癌细胞的综台诊断能力，仅靠个体医生进行判断。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "日本："
+							},{
+								"font": "regular",
+								"align": "",
+								"content": "最好的医生在读影器前，3名以上主诊医生团队严谨的诊断，专业的防癌检查医生，十年以上检查诊断经验和资质. 不放过微小癌细胞的影像、征兆。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "4. 检查过程"
+							}
+						]
+					}, {
+						"type": "table",
+						"content": {
+							"th": [
+								{
+									"font": "medium",
+									"align": "center",
+									"content": "国内体检"
+								},{
+									"font": "medium",
+									"align": "center",
+									"content": "VS"
+								},{
+									"font": "medium",
+									"align": "center",
+									"content": "日本精密体检"
+								}
+							],
+							"tr": [
+								{
+									"font": "regular",
+									"align": "",
+									"content": "单一体检方式，早期诊断率低"
+								},{
+									"font": "medium",
+									"align": "center",
+									"content": "检查过程"
+								},{
+									"font": "regular",
+									"align": "",
+									"content": "复合式检查，早期诊断率高"
+								}
+							]
+						}
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "国内："
+							},{
+								"font": "regular",
+								"align": "",
+								"content": "检查环境人多、环境嘈杂、体检者忙于穿行在流水线上；由于人口众多，医疗资源紧张，医生每天要接待几十甚至几百位病人，很多医院也都是排队3小时，看病3分钟，在国内做体检很快，医生会像流水线一般接待过百的病人；体检报告不严谨、不配合专业报告解读。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "日本："
+							},{
+								"font": "regular",
+								"align": "",
+								"content": "检查环境体检环境现代化、安静舒适、客人享受星级酒店服务待遇；医生每天只接待几位病人，医生有充足的时间和精力来为病人服务；体检中心都会根据每个人的病史、身体状态，精心设计一份体检方案，故而每个人的健康体检周期与体检套餐的内容都是个性化定制的。并且在海外国家体检之后，医生会针对客户的身体状况进行专科问诊、后续治疗，让你感觉你拥有了一个私人医生。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "很多国人选择去日本体检，说明日本体检确有其独特的地方，值得国内医疗行业学习和借鉴，差异中寻求突破，希望随着我国医疗行业的发展，健康体检行业也能够更加的完善，更好的服务于广大患者。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "定期体检，早预防，早诊断，早治疗，根除疾病于萌芽状态，学会根据自身情况选择更健康的生活方式，预防疾病远比治疗疾病更有意义。"
+							}
+						]
+					}
+				]
+			},{
+				"id": 2,
+				"title": "一文了解“医疗美容”",
+				"headimg": "../images/server/cosmetology.jpg",
+				"details": [
+					{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "日本是开展整形美容手术最早的亚洲国家，1958 年就成立了日本整形外科学会。日本以国际化高水准的审美和自然风格为主流，更注重每一个人的个性化特征。做为亚洲顶级的整形美容大国，日本整形美容行业具有严格的行业管理标准， 以其精致细腻的手法、贴心周到的服务深受追求年轻、美丽人士的喜爱。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "亚洲第一家整形美容医院就创立在日本。2010 年，日本每年的整容数量已经仅次于中国，排在世界第四，当年韩国仅排在世界第七位。从整形外科总体发展水平和行业规范程度来看，日本是最好的。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": "../images/server/cosmetology/c1.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "日本医疗美容的特色"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "1、日本美容外科医生必须在普通外科从事临床7年以上，熟练掌握各种外科手术技巧后才能成为美容外科医生。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "2、成为美容外科医生后，必须经过3年临床进修接受各种美容手术的操作，通过严格的考核才能获得美容外科手术资格。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "3、日本美容外科医生的标准是：美容手术无异于在人体上作画，故而美容外科医生不仅要有高超的手术技巧，还要不断提高自己的审美观念。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "4、日本的服务体现是100%地满足顾客的需求，不让顾客等一分钟、不让顾客有任何不安、让顾客感动、欢迎顾客的意见和抱怨。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "5、及时应用国际领先的医疗技术和随时引进国际领先的设备，是日本整形美容的一大特征。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "6、日本美容医生非常注重与顾客交流，以便充分了解顾客的状况和需求。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "7、认真仔细的术后复查和跟踪服务也是日本整形技术令人赞叹的一点，术后顾客不仅享有完善的保障制度，还可随时来电来院咨询检查。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "8、日本是一个苛求细腻、精致、完美的民族，故而，日本整形医生更注重为不同人体塑造不同的个性之美和自然之美。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": "../images/server/cosmetology/c2.jpg"
+					}
+				]
+			},{
+				"id": 3,
+				"title": "一文了解“再生医疗”",
+				"headimg": "../images/server/regenerate.jpg",
+				"details": [
+					{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "如今，世界各地正在加快开展再生医疗研究、临床应用。最新的研究发现了很多可能延迟老化、延长寿命的物质，将其应用于临床的技术也源源不断地被开发出来。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "何谓再生医疗？"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/server/regenerate/r1.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "再生医疗是运用尖端科技，培养制造具生物活性功能的细胞和组织，并以新细胞和组织来修补和替换因疾病和受伤等而丧失功能的组织和器官，达到再生并恢复正常机能的治疗。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "如今，世界各地正在加快开展再生医疗研究和临床应用。再生医疗为治疗癌症等不治之症开拓出新的治疗可能性，因而受到广泛关注。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "何谓干细胞"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "维基百科说，干细胞是原始且未特化的细胞，它是未充分分化、具有再生各种组织器官的潜在功能的一类细胞。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "多年来生物医学专家对干细胞的定义不断进行修正，并从不同的层面上来进行定义 。简单来讲， 干细胞是一类具有无限的或者永生的自我更新能力的细胞、能够产生至少一种类型的、高度分化的子代细胞。一个细胞必须有以下两个能力，方能被称之为干细胞："
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "1、分化能力。能分化成表皮细胞、红血球、血小板等各式各样细胞的能力。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "2、自我复制能力。也就是能够复制分裂出与自己有着相同功能的细胞的能力。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": "../images/server/regenerate/r2.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "与再生医疗相关的三种干细胞："
+							}
+						]
+					},{
+						"type": "img",
+						"content": "../images/server/regenerate/r3.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "干细胞研究与日本再生医疗的发展历史："
+							}
+						]
+					},{
+						"type": "img",
+						"content": "../images/server/regenerate/r4.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "干细胞再生医疗的应用领域："
+							}
+						]
+					},{
+						"type": "img",
+						"content": "../images/server/regenerate/r5.jpg"
+					}
+				]
+			}
+		]
+	}
+}

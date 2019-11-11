@@ -40,6 +40,18 @@
 					"headImg": "../images/carousel/carousel-index-3.jpg",
 					"title": "泰璞健康日本体检案例"
 				}
+			],
+			"service": [
+				{
+					"headImg": "../images/carousel/service_1.jpg",
+					"title": "为什么要选择日本体检？"
+				},{
+					"headImg": "../images/carousel/service_3.jpg",
+					"title": "一文了解“医疗美容”"
+				},{
+					"headImg": "../images/carousel/service_2.jpg",
+					"title": "一文了解“再生医疗”"
+				}
 			]
 		}
 	}

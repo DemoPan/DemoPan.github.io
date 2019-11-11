@@ -1,0 +1,433 @@
+{
+	"code": 1,
+	"data": {
+		"list": {
+			"headImg": "/images/server/regenerate/r1.jpg",
+			"mealList": [
+				{
+					"title": "日本银座健康院",
+					"description": "再生医疗·预防医疗细胞疗法",
+					"meal": [
+						{ "name": "NK点滴", "price": "790000" },
+						{ "name": "树突状细胞・T细胞疗法", "price": "1450000" },
+						{ "name": "自体脂肪间充质干细胞疗法", "price": "6000000" }
+					]
+				}
+			],
+			"aims": {
+				"title": "目的及其方法",
+				"content": [
+					{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "目的"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "“预防医疗细胞疗法”是利用自身细胞，促进恢复受损细胞的机能，提高与预防癌症相关的免疫力。 ※并不是完全防止疾病的发生"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "方法"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "从自身体内提取要培养的细胞，在厚生劳动省批准下的专门机构进行培养(2~4周)。之后，培养后的细胞通过点滴或注射的方式回输到身体内。"
+							}
+						]
+					}
+				]
+			},
+			"flow": {
+				"title": "详细流程",
+				"content": [
+					{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "【第二种再生医疗】"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"anchor": "105",
+								"content": "自体脂肪由来间充质干细胞疗法"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "1、医师诊察和术前检查"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "医生会根据现在的身体状态和病历等判断是否实施。在决定实施后，进行此项疗法必要的检查。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "2、抽取脂肪细胞和抽血"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "沿着肚脐褶皱处切大概3mm皮肤，抽取脂肪。抽取培养时需要的血液。第一天项目结束。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "3、培养"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "健康院合作的专门机构(厚生劳动省认可机构)进行培养。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "4、点滴"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "提取细胞的2周之后，培养好的细胞通过点滴回输至体内。(厚生劳动省认可机构)进行培养。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "5、术后检查"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "每2个月随访观察一次，回输的大概6个月后，进行和术前检查同样的检查，确认点滴的效果以及安全性。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "※根据医师的检查结果，有不受理客人接受细胞疗法的可能性。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "※因为最使用您自体免疫细胞的疗法，无重大副作用，但有出现感冒症状或发痒等轻度副作用的可能性。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "【第三种再生医疗】"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"anchor": "103",
+								"content": "NK点滴"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"anchor": "104",
+								"content": "树突状细胞疗法・T细胞疗法"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "1、医师诊察"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "医生在了解现在身体状态和病历等基础上，为您提案最适合的“预防医疗细胞疗法”。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "2、培养"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "抽取培养时需要的血液。第一天项目结束。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "3、点滴"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "健康院合作的专门机构(厚生劳动省认可机构)进行培养。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "4、点滴、注射"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "提取细胞的2周之后，培养好的细胞通过点滴或皮下注射至体内。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "点滴:NK点滴、T细胞疗法；"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "皮下注射:树突状细胞疗法"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "※如回输点滴、打针的日期有变化，需要在预约日的2周前联系我们，不受理2周以内更改日期。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "★可以只做树突状细胞或T细胞疗法。请垂询。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "※关于疗法的种类、时间、次数等，请咨询医生。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "※根据情况会另外收取初診费(31,500日元·已含税)、复诊费(7,875日元·已含税)。详情请垂询。"
+							}
+						]
+					}
+				]
+			}
+		},
+		"needs": [
+			{
+				"title": "服务内容",
+				"column": 2,
+				"content": [
+					{
+						"title": "所含项目", 
+						"list": [
+							{ "title": "体检咨询问诊服务；", "list": [] },
+							{ "title": "一对一专业医疗翻译派遣及全程陪同；", "list": [] },
+							{ "title": "体检报告的中文翻译及邮送；", "list": [] },
+							{ "title": "赠送全套影像学资料；", "list": [] }
+						]
+					},{
+						"title": "不含项目（option）", 
+						"list": [
+							{ "title": "往返机票，签证", "list": [] },
+							{ "title": "酒店和体检以外的餐食", "list": [] },
+							{ "title": "行李超重费：托运行李超过（公务30KG，经济20KG，具体以航空公司要求为准）", "list": [] },
+							{ "title": "日本国内交通费", "list": [] },
+							{ "title": "接机（option：预定日本包车服务，另收费..）", "list": [] }
+						]
+					}
+				]
+			},{
+				"title": "预定须知",
+				"column": 1,
+				"content": [
+					{
+						"title": "检前预约流程", 
+						"list": [
+							{ "title": "前期咨询，确定体检城市、套餐、出行日期，开始预约。", "list": [] },
+							{ "title": "预约后，请在来日体检的30天前止，付清全部费用（预约时不满30天的，务必2个工作日内支付100%体检费用。否则，取消预约名额。", "list": [] }
+						]
+					},{
+						"title": "付款后服务流程", 
+						"list": [
+							{ "title": "确定预约日期后，医院体检用问诊表格和便检尿检工具等，我司客服会在体检前一天晚上，或者当天早上送至客人手中。", "list": [] },
+							{ "title": "协助完成问诊服务翻译并填写表格。", "list": [] },
+							{ "title": "检查当天，专业医疗翻译一对一全程陪同。", "list": [] },
+							{ "title": "日文体检报告翻译成中文后，日文及中文两份报告，用国际快递方式邮给客户。", "list": [] },
+							{ "title": "针对客人对中文翻译报告中的不明和疑问，接受的咨询和反馈服务。", "list": [] }
+						]
+					},{
+						"title": "预约注意事项", 
+						"list": [
+							{ "title": "建议您尽量提前1～2个月预约泰璞健康。预约时，请告知以下信息：名字（护照拼音）", "list": [] },
+							{ "title": "当院是完全预约制，诊疗费务必事先全额汇款。在预约成立后，概不接受取消退款。", "list": [] },
+							{ 
+								"title": "有以下情况的顾客不能接受MRI、CT、3D钼靶、DXA",
+								"list": [
+									{ "title": "・使用心脏起搏器的，人工耳蜗，金属制假眼，体内有金属或者埋藏型除颤器的客人", "list": [] },
+									{ "title": "・装有钛制以外的脑动脉瘤夹的客人", "list": [] },
+									{ "title": "・做过纹身、tatoo、纹眼线的客人（根据部位和范围又不能接受检查的可能性）", "list": [] },
+									{ "title": "・妊娠中，或者有怀孕可能性的客人", "list": [] },
+									{ "title": "・乳房有做过丰胸手术的客人", "list": [] },
+									{ "title": "・正在哺乳期的客人", "list": [] }
+								]
+							}
+						]
+					}
+				]
+			},{
+				"title": "体检流程及注意事项",
+				"column": 1,
+				"content": [
+					{
+						"title": "体检注意事项", 
+						"list": [
+							{ "title": "体检前一天避免饮酒、油腻、糖分高及不易消化的食物（20:00后禁食禁水，可少量饮用清水）；避免高强度运动；如有服药请提前告知；", "list": [] },
+							{ "title": "体检当日需空腹 ，只能吃医院的体检餐，可少量喝水，润喉即可", "list": [] },
+							{ "title": "检查当天请携带护照原件", "list": [] },
+							{ "title": "请按照约定时间准时到达，如当天由于客人原因迟到，可能会被延迟或取消，请务必注意。", "list": [] },
+							{ "title": "体检过程中，拒绝家属等非体检人员陪同，不允许大声交谈或打电话。", "list": [] }
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -3,6 +3,7 @@
 	"data": {
 		"list": [
 			{
+				"id": 1,
 				"headImg": "images/hospital/kenkoin/kk_headimg.jpg",
 				"headLogo": "images/hospital/kenkoin/kk_logo.png",
 				"title": "日本银座健康院",
@@ -13,6 +14,7 @@
 				"address": "东京",
 				"level": "一家专注于“预防医疗”，以疾病防御为目的综合性诊所"
 			},{
+				"id": 2,
 				"headImg": "images/hospital/jfcr/jfcr_headimg.jpg",
 				"headLogo": "images/hospital/jfcr/jfcr_logo.png",
 				"title": "日本东京癌研有明",
@@ -23,6 +25,7 @@
 				"address": "东京",
 				"level": "日本厚生劳动省权威在册 特定功能医院（类似国内三甲级别）"
 			},{
+				"id": 3,
 				"headImg": "images/hospital/ncgm/ncgm_headimg.jpg",
 				"headLogo": "images/hospital/ncgm/ncgm_logo.png",
 				"title": "国立国际医疗研究中心医院",
@@ -32,6 +35,17 @@
 				"logo": "images/hospital/ncgm/ncgm_logo_c.png",
 				"address": "东京",
 				"level": "日本首家实施综合体检的医院"
+			},{
+				"id": 4,
+				"headImg": "images/hospital/nhc/nhc_headimg.jpg",
+				"headLogo": "images/hospital/nhc/nhc_logo.png",
+				"title": "NATURAL HARMONY CLINIC 表参道",
+				"description": "",
+				"detail": "NATURAL HARMONY CLINIC 表参道是通过医疗和美容，不分性别，让每个人的生活都更加丰富多彩的“全面健康诊所”。采用了安全且自然有效的最先进医疗方式“再生医疗”。诊所治疗不单单局限在解决客户面容和身体的衰老问题，更进一步提供治愈心灵的医疗支持。",
+				"authentication": "images/hospital/ncgm/ncgm-tp.png",
+				"logo": "images/hospital/nhc/nhc_logo_c.png",
+				"address": "东京",
+				"level": "日本厚生劳动省权威在册，获批再生医疗计划编号的医疗机构"
 			}
 		]
 	}

@@ -3,32 +3,826 @@
 	"data": {
 		"list": [
 			{
-				"id": "102",
-				"title": "预防医疗体检Premium套餐2日",
+				"id": 1,
+				"title": "东京天皇御医私立诊所“防癌针”+轻井泽顶级温泉度假酒店",
+				"headimg": "../images/detail/re/id1_6.jpg",
+				"tag": [],
+				"price": 12.8,
+				"day": "6天5晚",
+				"description": "健康院致力于再生医疗（第三种）的研究和治疗服务，针对健康人士推出了提高自身免疫力而降低癌症发病风险的树状细胞・T细胞点滴疗法，俗称“防癌针”。",
 				"details": [
-					"肿瘤标记物、全身MRI、HP•胃癌、钼靶•乳腺癌、前列腺MRI、胃部CT、循环系统、过敏检查、呼吸系统•肺部CT、心血管、MPCP"
-				],
-				"tag": ["日本银座健康院", "2日"],
-				"priceMan": 1550000,
-				"priceWoman": 1550000
-			}, {
-				"id": "202",
-				"title": "专门癌筛查套餐 2日",
+					{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "私密性深获日本政界名流青睐的银座健康院"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "坐落在东京银座的健康院诊疗院是以“不患病”为目的专业医疗机构。为实现防止未来患疾病的“预防医疗”，运用高性能的检查设备，为国内外的贵宾人士提供高精度的健康检查。"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id1_1.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "健康院致力于再生医疗（第三种）的研究和治疗服务，针对健康人士推出了提高自身免疫力而降低癌症发病风险的树状细胞・T细胞点滴疗法，俗称“防癌针”。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "全程尊享星野顶级虹夕诺雅品牌酒店"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "星野集团「虹夕诺雅」始于1914年的日本顶级温泉度假酒店之一，坐落在风景里，不论是静谧的山野，还是繁华的都市，都能构建出虹夕诺雅的世界，仿若一个神秘的结界，把一切喧嚣繁忙隔绝在外，享受属于自己的美好时光。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "本行程入住东京虹夕诺雅及虹夕诺雅·轻井泽，正是虹夕诺雅集团的代表之作。"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id1_2.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "日本皇室钟爱度假胜地-轻井泽"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "轻井泽被称为“东京的后花园”，在这里一年四季都是美景，春赏樱、夏避暑、秋观叶、冬滑雪。如果你看过了春樱夏花更不能错过轻井泽的秋枫和冬雪。"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id1_3.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 1 各地 - 东京"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "专车机场迎接贵宾，送至下榻酒店。虹夕诺雅东京位于皇居旁著名的大手町地区，充满榻榻米香的优雅馆内，悉心为每位贵宾提供最正宗崇高日式旅馆的待客之道"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id1_4.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 2 银座健康院 树状细胞・T细胞点滴 医师问诊及采血"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "晚餐，日山集团以和牛精肉的经营批发起家，目前已是第三代owner，连续11年就被评为米其林一星餐厅。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "但店主从未将米其林证书展示在店内，不同季节，日山店内提供的和牛产地会有所不同，用店主的话说，我们熟知日本全国的和牛养殖场，所以只提供我们精挑细选的最上等和牛提供给来店贵客。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "有底气的低调，很多日本当地人都不知道的米其林餐厅，绝对更新您对和牛的认识。"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id1_5.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 3 东京 – 轻井泽"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "专属中文司机兼向导，专车出发至轻井泽。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "轻井泽位于长野县东南部，浅间山的山麓平地上。四周为浅间山、鼻曲山、碓冰岭等山峰包围，地处夏季气候凉爽，海拔约1000米的高原地带，这里落叶松和白桦树生长茂盛，自然环境宜人，夏季气候凉爽，能让人充分的享受森林的芬多精，充满清爽的绿意与西欧风情的异国情调，休闲设施丰富，在高原清凉的空气中，享受旅游之乐自然环境宜人，所以从19世纪末开始就作为日本有代表性的避暑胜地而发展至今，所以又有「小瑞士」之称。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "第一站：白丝瀑布"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "瀑布犹若数百条白色绢丝带从黑岩中优雅地被掏出，十分细致。白丝瀑布迷人之处不在于巨大的激流或高度落差而产生的壮丽气势，反而是涓流在岩石上激起的微小碎花，像轻吟一首小诗般，诗韵之美诠释着溪流美景，而有了“轻井泽的秘境”之称。"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id1_6.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "第二站："
+							},{
+								"font": "regular",
+								"align": "",
+								"content": "云场池是来到轻井泽的必去景点，它有“天鹅湖”的美名，漫步池边，无论是在绿意盎然的初夏还是红叶漫天的秋日，都是享受大自然的绝佳场所。秋天是赏枫名所。以湖水似镜，红枫倒影而著名。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "冬日的云场池同样美的惊心动魄。"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id1_7.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "晚上入住轻井泽虹夕诺雅。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "~虹夕诺雅欢迎仪式：地道的日本民乐，纯美的果汁饮品，在您入住时为您呈现。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "~虹夕诺雅的夜：傍晚，工作人员会乘坐小船，点燃湖中灯火，和着波光粼粼的湖水，映着满天繁星（具体时间以酒店安排为准）。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "~【独此一家】冥想温泉：采用“边洗泉边冥想的浴池”这一构想，回响心头的音响，浸泡泉水中，时间的流逝变的缓慢。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "★怀石料理：采用长野当地的特供食材，季节变换菜单搭配，保证所有的食材都是最当季、最新鲜。"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id1_8.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 4  自然醒的早晨，享受您在轻井泽的上午，温泉&早餐&负离子度假村。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "※今天您可以在透过晨曦微光起个早，轻井泽空气分外清新，穿上酒店提供的浴衣和外套，漫步度假村中，在大自然氧吧中呼吸负离子，放松身心。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "※日本惯有“一日三泡”的习俗，早餐前，您还可以去度假村的露天温泉★“蜻蜓之汤”泡汤，感受美肌温泉的独特之处！"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "午后·亲近自然&浪漫轻井泽，您可以选择前往体验度假村山地骑马项目，或者外出度假村感受夏季凉爽的轻井泽高原。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "※您可参加度假村的活动，跟随Picchio的鸟类专家深入森林观鸟，或在高原森林中骑马，独享漫步森林时光。也可选择外出度假村赏景。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "【温馨提示】☆山地骑马、☆跟随鸟类专家观鸟等体验项目席位有限，需尽早预约，费用敬请自理。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 5 享受完虹夕诺雅的优雅早餐后，专车返回东京。自由活动。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "你可以选择到银座，亚洲最大的商业中心之一，奢侈品牌云集，与巴黎的香榭丽舍大街、纽约的第五大街齐名，是世界三大繁华中心之一。开启买买买模式。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "若不想购物，我们还可为贵宾安排深度茶道体验、歌舞伎观赏等日本文化近距离接触。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "晚上入住东京半岛酒店"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 6酒店出发专车将贵宾送至机场，踏上归国之旅。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "健康院采血后15日至3个月内，贵宾需再次来日前往健康院，将定制培养点滴输回体内，完成防癌点滴治疗。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "贵宾确定来日行程后，泰璞健康会安排专车机场迎接贵宾，并当天送往银座健康院完成点滴注射后，送至下榻酒店。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "如贵宾需要安排其他行程，请跟我们沟通。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "费用包含"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "住宿：行程所列酒店住宿费用。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "餐食：行程内所列餐食，不含酒水。(具体请参考行程推荐，自理除外)。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "门票：行程中所列景点首道大门票。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "用车：行程内所含项目用车费用。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "服务：导游及司机每日工作时间10小时。如超时，需现地支付超时费用，1万日元每小时。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "当地中文导游服务。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "费用不包含"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "机票：国际段往返航班，机场税，燃油附加费。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "签证：日本旅游签证"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "其他：超重行李的托运费、保管费; 因交通延阻、罢工、天气、机器故障等不可抗力原因所导致的"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "额外费用: 酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费; 自由活动期间的用车服务; 提供导游服务的产品在自由活动期间无陪同服务; 当地参加的自费以及“费用包含”中不包含的其它项目。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "单房差（单人入住一间房间补差费用）"
+							}
+						]
+					}
+				]
+			},{
+				"id": 2,
+				"title": "东京天皇御医私立诊所至尊体检+伊豆日本人心中No.1温泉酒店",
+				"headimg": "../images/detail/re/id2_6.jpg",
+				"tag": [],
+				"price": 12.8,
+				"day": "6天5晚",
+				"description": "全面健康体检+私人定制保健方案，可用于改善亚健康状态，早期预防疾病的治疗对策，深受各界精英人士青睐。",
 				"details": [
-					"血尿检查、感染症、大便潜血2次、肺癌检测、甲状腺检查、无痛胃镜、腹部CT、腹部•肝胆胰脾癌症筛查"
-				],
-				"tag": ["日本癌研有明医院", "2日"],
-				"priceMan": 600000,
-				"priceWoman": 650000
-			}, {
-				"id": "303",
-				"title": "全身精密体检套餐 3日",
-				"details": [
-					"身体测定、血液检查、尿检查、便检查、生理功能检查、X线双向透视、75G糖耐量试验、腹部CT、腹部B超、无痛肠镜、PET-CT"
-				],
-				"tag": ["日本国立国际医院", "3日"],
-				"priceMan": 900000,
-				"priceWoman": 950000
+					{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "银座健康院—天皇御医亲诊，高端私密一流"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "健康院诊疗院坐落于东京银座，注重“预防医学”，以未雨绸缪未病防病为宗旨，以“今天没有病，将来不患病”为目标，为每一位客户量身定做高精度高端体检。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "健康院不仅拥有国内外一流高性能检查设备，可以及早发现各类重大疾病，还对“将来罹患疾病的风险”进行检查，提供可用于改善亚健康状态，早期预防疾病的治疗对策，深受各界精英人士青睐。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "健康院每日接待贵宾人数有限，同时保证每一位贵宾在接受体检时只会见到医护人员及翻译，既满足了名流需要绝对私密空间的要求，又保证了对每一位贵宾的精致服务。"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id1_1.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "推荐理由："
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "1、由天皇御医亲自问诊触诊，并为客户耐心解读体检报告。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "2、为实现“早期发现”疾病，健康院配备了日本国内顶级高性能检查设备，包括日本国内最高水准画质图像的全身核磁共振（MRI），胃，大肠仿真内窥镜CT检查，以及3D钼靶等等。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "3、可进行全身大病筛查。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "4、提供对疾病或衰老的根源进行检查的“衰老积分”。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "坐渔庄—日本人心中NO1温泉酒店"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "看名如看景，从这家温泉酒店的名字，就可以感受到日式的宁静与平和，以及超然物外的洒脱。伊豆半岛是日本首屈一指的度假胜地，而坐渔庄正位于伊豆浮山温泉乡内，被国立公园的美景包围，浮山温泉独特的地理条件造就了清幽静谧的隐居空间，让到来的宾客可以悠然沉浸在“与自然文化共生”的天然世外桃源，来一场真正放松的灵魂极品疗愈。从走进酒店的那一刻起，时钟的走针都好像停止，到访的客人仿佛“变身”姜子牙，悠悠垂钓在天边。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "坐渔庄毗邻相模湾，坐拥伊豆七岛景观，远可观海可爬山，近有跨越半世纪的传统汤泉以及正统派日式庭园。入住之后首先您可以体验到体现“一期一会”精髓的迎宾奉茶，开启触摸日本文化的旅程。品茶之余，管家还会引领您欣赏50年不变的和风旅馆风情，放眼四周和室和庭园交相辉映浑自天成，让人在瞬间忘却一切，彻底解放紧张的灵魂。"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id2_2.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "坐渔庄连续数十年在各类排行榜蝉联榜首，不仅位列日本百大温泉旅店，同时也是政商名流高端人士最爱的隐居度假场所。在东京电视台旅游节目【一起去旅行中】，荣获日本国民票选单一的【日本优选住宿NO.1】，日本人评选一辈子一定要入住一次的温泉旅馆TOP.1。除此之外，坐渔庄还是日本唯一一家获选加入全球奢华精品酒店联盟的温泉旅馆，被赞赏为日本服务款待最佳指标。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 1 各地 - 东京"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "专车机场迎接贵宾，送至下榻酒店。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "推荐："
+							},{
+								"font": "medium",
+								"align": "",
+								"content": "东京半岛酒店座落于东京的心脏----丸之内商业区，比邻皇居，紧靠银座。周边城市景观集传统与现代于一体，无论您需要购物还是观光，无论您追求奢华舒适的住宿还是品质非凡的餐饮，"
+							},{
+								"font": "regular",
+								"align": "",
+								"content": "都可以在这里得到最大程度的满足。而半岛"
+							},{
+								"font": "medium",
+								"align": "",
+								"content": "酒店的服务，更是深得日式待客精髓，让贵宾住一次爱一生。"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id2_3.jpg"
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id2_4.jpg"
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 2 银座健康院预防医疗体检Premium套餐1日"
+							},{
+								"font": "regular",
+								"align": "",
+								"target": "router-link",
+								"url": "meal",
+								"content": " 详情 >>"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "健康院高端体检项目均采用高精度医疗设备，内容除了针对各种癌症的精查之外，更有针对中年精英人士常见的亚健康状况诊断，主要包括动脉硬化(血管年龄、颈动脉、冠状动脉状态)及心脑血管疾患(脑梗塞和脑出血、蛛网膜下腔出血)风险，以及体内有害重金属含量，骨密度等多项内容，详情敬请参照体检套餐说明。最终以健康检查报告为基础，为贵宾打造“私人定制保健方案”，包括血液净化，配方点滴，以及保健药品。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 3 东京 – 伊豆"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "为贵宾配备专属中文司机兼向导，专车出发直奔热海。热海，是伊豆半岛上最具艺术气息的地方，这里的MOA美术馆更不可错过。美术馆建于山顶，无论是美术馆本身的建筑之美，还是诸多日本美术藏品都可圈可点。除去传统美术藏品之外，美术馆内部大厅顶部的巨型万花筒五彩斑斓，是全球顶级万花筒艺术家依田夫妻的名作，永远不会重复的图案也在传递着日式“一期一会”之美。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "行走在美术馆中，低调的奢华信手拈来。比如“人间国宝”室濑和美先生亲自操刀，将传统漆绘融汇于现代自动门；比如馆内珍藏的大量美术馆创始人及日本商界富豪的私人藏品，从藏品中也可以看出百年来日本商界精英在艺术领域的高深造诣。但是这还不是MOA美术馆最绝妙的地方，难得的是您可以在这里看到专门表演日本传统艺术----“能乐”的能乐堂。"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id2_5.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "名将丰臣秀吉，曾经在皇宫建黄金茶室向天皇奉茶。根据这段历史，美术馆高度还原了当年的黄金茶室。从装饰到茶道道具均用纯金打造，将桃山时代的绚烂奢华表现得淋漓尽致。高调张扬的黄金茶室，与讲求闲寂质朴的茶道精神形成强烈对比，从中再次可以体会桃山时代特有的美感。"
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/re/id2_6.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "美术馆中长达30余米的落地玻璃窗，将大海融入展厅成为美术馆的一部分，站在这里眼望蓝天碧海，美景也许会让您忘记呼吸。自然之美与人工之美仿佛天作之合，现代艺术与传统艺术恰似水乳交融，可以断言，只有身临其境方能体会这份有着厚重文化底蕴的美好。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "游览伊豆半岛风情之后，贵宾晚上将入住ABBA RESORTS坐渔庄的豪华套房，您将在榻榻米的清香中入眠，在清晨的鸟鸣中苏醒，精神焕发元气满满。"
+							},{
+								"font": "regular",
+								"align": "",
+								"target": "",
+								"url": "http://zagyosoh.com/lang/cn/",
+								"content": "详情 >> "
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 4  酒店出发专车至机场，踏上回国归程"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "日本作为国人旅游热点国家早已不是新闻，然而您在这次旅行中获得的体验，却不是大家“熟知”的那个日本。让我们带领各位贵宾，深度了解自己的健康状况，深度了解日本的美景与文化。"
+							}
+						]
+					}
+				]
 			}
 		]
 	}

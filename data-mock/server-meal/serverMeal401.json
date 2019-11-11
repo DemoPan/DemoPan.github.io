@@ -1,0 +1,661 @@
+{
+	"code": 1,
+	"data": {
+		"list": {
+			"headImg": "/images/server/regenerate/r1.jpg",
+			"title": "NATURAL HARMONY CLINIC表参道",
+			"description": "再生医疗·预防医疗细胞疗法",
+			"meal": [
+				{ "name": "自体脂肪间充质干细胞疗法", "price": "790000" },
+				{ "name": "NK细胞的癌症免疫细胞疗法", "price": "1450000" },
+				{ "name": "干细胞上清液的毛发再生", "price": "6000000" },
+				{ "name": "成纤维细胞的皮肤再生", "price": "6000000" },
+				{ "name": "PRP（富血小板血浆）的皮肤再生", "price": "6000000" }
+			],
+			"flow": {
+				"title": "详细流程",
+				"content": [
+					{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"anchor": "401",
+								"content": "自体脂肪间充质干细胞疗法"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "免费咨询"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "通过咨询听取患者的症状和困扰，医生准确诊断患者的状态，并在检查时,由医生详细地讲解再生医疗和治疗的内容。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "术前检查（抽血）"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "检查规定的病毒和细菌。必须根据检查结果判断为可行，才可接受治疗。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "采集脂肪"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "在腹部等部位切开几毫米长的小口，采集少量细胞。会进行局部麻醉，几乎感觉不到疼痛。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "干细胞培养"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "本诊所委托特定业者,即”特定细胞加工物制造商”进行干细胞培养。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "静脉滴注"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "4~5周后以静脉滴注的方式注射干细胞约1个半小时~2小时。根据静脉滴注次数重复STEP5."
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "预后检查"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "注射培养干细胞1~16周后进行预后检查。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"anchor": "402",
+								"content": "NK细胞的癌症免疫细胞疗法"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "免费咨询"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "通过咨询听取患者的困扰，医生准确诊断患者的状态，并在检查时，由医生详细地讲解再生医疗和治疗的内容。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "术前检查（抽血）NK活性 & 采集细胞（抽血）"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "检查规定的病毒和细菌、NK活性度等,采集用于培养的细胞。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "报告检查结果"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "静脉滴注"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "采集的细胞经过3周左右的培养、激活后，通过静脉滴注,将利用活性化培养繁殖的NK细胞输回体内。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "NK活性检查并报告结果"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "※同时采用“癌症抑制基因治疗”时，在与医生咨询时，我们会告知患者详细的步骤。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"anchor": "403",
+								"content": "干细胞上清液的毛发再生"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "免费咨询"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "通过咨询听取患者的症状和困扰，医生准确诊断患者的状态，并在检查时，由医生详细地讲解治疗的内容。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "麻醉"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "在头皮上涂抹麻醉霜使其渗透。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "洗头"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "洗头洗净麻醉霜。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "干细胞上清液注射"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "向头皮注射干细胞上清液。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "静脉滴注干细胞上清液"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "为提高治疗效果，根据情况还会配合静脉滴注干细胞上清液。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"anchor": "404",
+								"content": "成纤维细胞的皮肤再生"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "免费咨询"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "通过咨询听取患者的症状和困扰，医生准确诊断患者的状态，并在检查时，由医生详细地讲解再生医疗和治疗的内容。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "血液检查"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "进行血液检查。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "皮肤采取"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "大约1周后，从耳后采取米粒大小的皮肤用于培养细胞。会进行麻醉，无需担心疼痛。还要采集用于培养的血液。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "细胞培养"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "本诊所委托特定细胞加工物制造商，从采取的皮肤中提取成纤维细胞，繁殖培养至约10,000倍。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "成纤维细胞移植（第1次）"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "采取皮肤约5周后，将培养至约10,000倍的成纤维细胞移植到患者的皮肤。真皮成纤维细胞开始修复衰老的皮肤组织。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "成纤维细胞移植（第2次）"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "2周后再次向同一部位移植成纤维细胞。连续2次移植可以更好地固定细胞。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "免费检查"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "建议在移植几个月后接受免费检查。医生会对过程进行讲解。第2次以后可以根据患者的要求，冰冻保存可使用3次的培养细胞作为细胞银行*。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "※细胞银行:保存细胞另需保存费用。每次移植也另需再次培养费用。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"anchor": "405",
+								"content": "PRP（富血小板血浆）的皮肤再生"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "免费咨询"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "通过咨询听取患者的症状和闲扰,医生准确诊断患者的状态,并在检查时,由医生详细地讲解再生医疗和治疗的内容。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "抽血"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "采集血液。抽血量少,轻微贫血的人群也可接受治疗。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "提取PRP"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "使用专用的离心分离机，从血液中提取PRP。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "注射"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "使用注射器逐一向增龄明显部位注射少量的PRP。"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "免费检查"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "建议在注射几个月后接受免费检查。向患者展示照片，由医生对过程进行讲解。"
+							}
+						]
+					}
+				]
+			}
+		},
+		"needs": [
+			{
+				"title": "服务内容",
+				"column": 2,
+				"content": [
+					{
+						"title": "所含项目", 
+						"list": [
+							{ "title": "体检咨询问诊服务；", "list": [] },
+							{ "title": "一对一专业医疗翻译派遣及全程陪同；", "list": [] },
+							{ "title": "体检报告的中文翻译及邮送；", "list": [] },
+							{ "title": "赠送全套影像学资料；", "list": [] }
+						]
+					},{
+						"title": "不含项目（option）", 
+						"list": [
+							{ "title": "往返机票，签证", "list": [] },
+							{ "title": "酒店和体检以外的餐食", "list": [] },
+							{ "title": "行李超重费：托运行李超过（公务30KG，经济20KG，具体以航空公司要求为准）", "list": [] },
+							{ "title": "日本国内交通费", "list": [] },
+							{ "title": "接机（option：预定日本包车服务，另收费..）", "list": [] }
+						]
+					}
+				]
+			},{
+				"title": "预定须知",
+				"column": 1,
+				"content": [
+					{
+						"title": "检前预约流程", 
+						"list": [
+							{ "title": "前期咨询，确定体检城市、套餐、出行日期，开始预约。", "list": [] },
+							{ "title": "预约后，请在来日体检的30天前止，付清全部费用（预约时不满30天的，务必2个工作日内支付100%体检费用。否则，取消预约名额。", "list": [] }
+						]
+					},{
+						"title": "付款后服务流程", 
+						"list": [
+							{ "title": "确定预约日期后，医院体检用问诊表格和便检尿检工具等，我司客服会在体检前一天晚上，或者当天早上送至客人手中。", "list": [] },
+							{ "title": "协助完成问诊服务翻译并填写表格。", "list": [] },
+							{ "title": "检查当天，专业医疗翻译一对一全程陪同。", "list": [] },
+							{ "title": "日文体检报告翻译成中文后，日文及中文两份报告，用国际快递方式邮给客户。", "list": [] },
+							{ "title": "针对客人对中文翻译报告中的不明和疑问，接受的咨询和反馈服务。", "list": [] }
+						]
+					},{
+						"title": "预约注意事项", 
+						"list": [
+							{ "title": "建议您尽量提前1～2个月预约泰璞健康。预约时，请告知以下信息：名字（护照拼音）", "list": [] },
+							{ "title": "当院是完全预约制，诊疗费务必事先全额汇款。在预约成立后，概不接受取消退款。", "list": [] },
+							{ 
+								"title": "有以下情况的顾客不能接受MRI、CT、3D钼靶、DXA",
+								"list": [
+									{ "title": "・使用心脏起搏器的，人工耳蜗，金属制假眼，体内有金属或者埋藏型除颤器的客人", "list": [] },
+									{ "title": "・装有钛制以外的脑动脉瘤夹的客人", "list": [] },
+									{ "title": "・做过纹身、tatoo、纹眼线的客人（根据部位和范围又不能接受检查的可能性）", "list": [] },
+									{ "title": "・妊娠中，或者有怀孕可能性的客人", "list": [] },
+									{ "title": "・乳房有做过丰胸手术的客人", "list": [] },
+									{ "title": "・正在哺乳期的客人", "list": [] }
+								]
+							}
+						]
+					}
+				]
+			},{
+				"title": "体检流程及注意事项",
+				"column": 1,
+				"content": [
+					{
+						"title": "体检注意事项", 
+						"list": [
+							{ "title": "体检前一天避免饮酒、油腻、糖分高及不易消化的食物（20:00后禁食禁水，可少量饮用清水）；避免高强度运动；如有服药请提前告知；", "list": [] },
+							{ "title": "体检当日需空腹 ，只能吃医院的体检餐，可少量喝水，润喉即可", "list": [] },
+							{ "title": "检查当天请携带护照原件", "list": [] },
+							{ "title": "请按照约定时间准时到达，如当天由于客人原因迟到，可能会被延迟或取消，请务必注意。", "list": [] },
+							{ "title": "体检过程中，拒绝家属等非体检人员陪同，不允许大声交谈或打电话。", "list": [] }
+						]
+					}
+				]
+			}
+		]
+	}
+}
