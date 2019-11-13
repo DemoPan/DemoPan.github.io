@@ -2,26 +2,8 @@
 	"code": 1,
 	"data": {
 		"list": {
-			"headImg": "/images/server/cosmetology/c2.jpg",
-			"mealList": [
-				{
-					"title": "NATURAL HARMONY CLINIC表参道",
-					"description": "医疗美容·抗衰老护理、美颜（美容医疗机械）",
-					"meal": [
-						{ "name": "光子嫩肤（M22）", "price": "790000" },
-						{ "name": "ULTRAcel黄金微针射频", "price": "1450000" },
-						{ "name": "SPECTRA色素激光治疗", "price": "6000000" }
-					]
-				}, {
-					"title": "NATURAL HARMONY CLINIC表参道",
-					"description": "医疗美容·注射医疗",
-					"meal": [
-						{ "name": "透明质酸注射", "price": "6000000" },
-						{ "name": "肉毒杆菌素注射", "price": "6000000" },
-						{ "name": "水光注射", "price": "6000000" }
-					]
-				}
-			],
+			"headImg": "images/hospital/nhc/nhc_headimg.jpg",
+			"mealList": [],
 			"flow": {
 				"title": "详细流程",
 				"content": [
@@ -36,6 +18,21 @@
 								"content": "光子嫩肤（M22）"
 							}
 						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "center",
+								"content": [
+									"医疗美容·抗衰老护理、美颜（美容医疗机械）",
+									"NATURAL HARMONY CLINIC表参道"
+								]
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/p/p1.jpg"
 					}, {
 						"type": "txt",
 						"content": [
@@ -89,6 +86,21 @@
 								"content": "ULTRAcel黄金微针射频"
 							}
 						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "center",
+								"content": [
+									"医疗美容·抗衰老护理、美颜（美容医疗机械）",
+									"NATURAL HARMONY CLINIC表参道"
+								]
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/p/p2.jpg"
 					}, {
 						"type": "txt",
 						"content": [
@@ -162,6 +174,21 @@
 						"content": [
 							{
 								"font": "regular",
+								"align": "center",
+								"content": [
+									"医疗美容·抗衰老护理、美颜（美容医疗机械）",
+									"NATURAL HARMONY CLINIC表参道"
+								]
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/p/p3.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
 								"align": "",
 								"content": "这种治疗设备利用2种不同波长的激光，及长脉冲三重激光模式去除黄褐斑。除色斑、黄褐斑、雀斑外，还适用于去除疤痕或纹身，并改善毛孔粗大发黑，青春痘等症状。"
 							}
@@ -215,6 +242,21 @@
 						"content": [
 							{
 								"font": "regular",
+								"align": "center",
+								"content": [
+									"医疗美容·抗衰老护理、美颜（美容医疗机械）",
+									"NATURAL HARMONY CLINIC表参道"
+								]
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/p/p4.jpg"
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
 								"align": "",
 								"content": "透明质酸注射在因增龄而出现症状的部位，例如法令线，眼角细纹，以及脸颊凹陷处。"
 							}
@@ -254,6 +296,21 @@
 								"content": "肉毒杆菌素注射"
 							}
 						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "center",
+								"content": [
+									"医疗美容·抗衰老护理、美颜（美容医疗机械）",
+									"NATURAL HARMONY CLINIC表参道"
+								]
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/p/p5.jpg"
 					}, {
 						"type": "txt",
 						"content": [
@@ -331,6 +388,21 @@
 								"content": "水光注射"
 							}
 						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "center",
+								"content": [
+									"医疗美容·抗衰老护理、美颜（美容医疗机械）",
+									"NATURAL HARMONY CLINIC表参道"
+								]
+							}
+						]
+					}, {
+						"type": "img",
+						"content": "../images/detail/p/p5.jpg"
 					}, {
 						"type": "txt",
 						"content": [

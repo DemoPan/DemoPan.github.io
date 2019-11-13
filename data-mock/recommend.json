@@ -5,7 +5,7 @@
 			{
 				"id": 1,
 				"title": "东京天皇御医私立诊所“防癌针”+轻井泽顶级温泉度假酒店",
-				"headimg": "../images/detail/re/id1_6.jpg",
+				"headImg": "../images/detail/re/id1_6.jpg",
 				"tag": [],
 				"price": 12.8,
 				"day": "6天5晚",
@@ -532,7 +532,7 @@
 			},{
 				"id": 2,
 				"title": "东京天皇御医私立诊所至尊体检+伊豆日本人心中No.1温泉酒店",
-				"headimg": "../images/detail/re/id2_6.jpg",
+				"headImg": "../images/detail/re/id2_6.jpg",
 				"tag": [],
 				"price": 12.8,
 				"day": "6天5晚",

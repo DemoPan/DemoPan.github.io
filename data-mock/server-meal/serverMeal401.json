@@ -2,15 +2,15 @@
 	"code": 1,
 	"data": {
 		"list": {
-			"headImg": "/images/server/regenerate/r1.jpg",
+			"headImg": "images/hospital/nhc/nhc_headimg.jpg",
 			"title": "NATURAL HARMONY CLINIC表参道",
 			"description": "再生医疗·预防医疗细胞疗法",
 			"meal": [
-				{ "name": "自体脂肪间充质干细胞疗法", "price": "790000" },
-				{ "name": "NK细胞的癌症免疫细胞疗法", "price": "1450000" },
-				{ "name": "干细胞上清液的毛发再生", "price": "6000000" },
-				{ "name": "成纤维细胞的皮肤再生", "price": "6000000" },
-				{ "name": "PRP（富血小板血浆）的皮肤再生", "price": "6000000" }
+				{ "name": "自体脂肪间充质干细胞疗法", "price": "" },
+				{ "name": "NK细胞的癌症免疫细胞疗法", "price": "" },
+				{ "name": "干细胞上清液的毛发再生", "price": "" },
+				{ "name": "成纤维细胞的皮肤再生", "price": "" },
+				{ "name": "PRP（富血小板血浆）的皮肤再生", "price": "" }
 			],
 			"flow": {
 				"title": "详细流程",
