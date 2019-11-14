@@ -32,6 +32,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "免费咨询"
 							}
 						]
@@ -50,6 +51,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "术前检查（抽血）"
 							}
 						]
@@ -68,6 +70,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "采集脂肪"
 							}
 						]
@@ -86,6 +89,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "干细胞培养"
 							}
 						]
@@ -104,6 +108,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "静脉滴注"
 							}
 						]
@@ -122,6 +127,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "预后检查"
 							}
 						]
@@ -151,6 +157,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "免费咨询"
 							}
 						]
@@ -169,6 +176,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "术前检查（抽血）NK活性 & 采集细胞（抽血）"
 							}
 						]
@@ -187,6 +195,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "报告检查结果"
 							}
 						]
@@ -196,6 +205,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "静脉滴注"
 							}
 						]
@@ -214,6 +224,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "NK活性检查并报告结果"
 							}
 						]
@@ -243,6 +254,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "免费咨询"
 							}
 						]
@@ -261,6 +273,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "麻醉"
 							}
 						]
@@ -279,6 +292,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "洗头"
 							}
 						]
@@ -297,6 +311,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "干细胞上清液注射"
 							}
 						]
@@ -315,6 +330,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "静脉滴注干细胞上清液"
 							}
 						]
@@ -344,6 +360,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "免费咨询"
 							}
 						]
@@ -362,6 +379,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "血液检查"
 							}
 						]
@@ -380,6 +398,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "皮肤采取"
 							}
 						]
@@ -398,6 +417,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "细胞培养"
 							}
 						]
@@ -416,6 +436,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "成纤维细胞移植（第1次）"
 							}
 						]
@@ -434,6 +455,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "成纤维细胞移植（第2次）"
 							}
 						]
@@ -452,6 +474,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "免费检查"
 							}
 						]
@@ -490,6 +513,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "免费咨询"
 							}
 						]
@@ -508,6 +532,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "抽血"
 							}
 						]
@@ -526,6 +551,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "提取PRP"
 							}
 						]
@@ -544,6 +570,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "注射"
 							}
 						]
@@ -562,6 +589,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "免费检查"
 							}
 						]

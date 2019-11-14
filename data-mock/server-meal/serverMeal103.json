@@ -86,6 +86,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "1、医师诊察和术前检查"
 							}
 						]
@@ -104,6 +105,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "2、抽取脂肪细胞和抽血"
 							}
 						]
@@ -122,6 +124,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "3、培养"
 							}
 						]
@@ -140,6 +143,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "4、点滴"
 							}
 						]
@@ -158,6 +162,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "5、术后检查"
 							}
 						]
@@ -226,6 +231,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "1、医师诊察"
 							}
 						]
@@ -244,6 +250,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "2、培养"
 							}
 						]
@@ -262,6 +269,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "3、点滴"
 							}
 						]
@@ -280,6 +288,7 @@
 							{
 								"font": "medium",
 								"align": "",
+								"color": "red",
 								"content": "4、点滴、注射"
 							}
 						]

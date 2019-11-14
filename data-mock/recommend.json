@@ -124,6 +124,8 @@
 								"font": "medium",
 								"align": "",
 								"size": "14",
+								"target": "router-link",
+								"url": "meal",
 								"content": "Day 2 银座健康院 树状细胞・T细胞点滴 医师问诊及采血"
 							}
 						]
@@ -717,13 +719,9 @@
 								"font": "medium",
 								"align": "",
 								"size": "14",
-								"content": "Day 2 银座健康院预防医疗体检Premium套餐1日"
-							},{
-								"font": "regular",
-								"align": "",
 								"target": "router-link",
-								"url": "meal",
-								"content": " 详情 >>"
+								"url": "meal-detail?id=101",
+								"content": "Day 2 银座健康院预防医疗体检Premium套餐1日"
 							}
 						]
 					}, {
@@ -793,13 +791,9 @@
 							{
 								"font": "regular",
 								"align": "",
-								"content": "游览伊豆半岛风情之后，贵宾晚上将入住ABBA RESORTS坐渔庄的豪华套房，您将在榻榻米的清香中入眠，在清晨的鸟鸣中苏醒，精神焕发元气满满。"
-							},{
-								"font": "regular",
-								"align": "",
 								"target": "",
 								"url": "http://zagyosoh.com/lang/cn/",
-								"content": "详情 >> "
+								"content": "游览伊豆半岛风情之后，贵宾晚上将入住ABBA RESORTS坐渔庄的豪华套房，您将在榻榻米的清香中入眠，在清晨的鸟鸣中苏醒，精神焕发元气满满。"
 							}
 						]
 					},{
