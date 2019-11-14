@@ -125,7 +125,7 @@
 								"align": "",
 								"size": "14",
 								"target": "router-link",
-								"url": "meal",
+								"url": "mdetail?id=104",
 								"content": "Day 2 银座健康院 树状细胞・T细胞点滴 医师问诊及采血"
 							}
 						]
