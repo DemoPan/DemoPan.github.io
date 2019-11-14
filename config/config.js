@@ -1,5 +1,2 @@
-const config = {
-	path: '/',
-}
+window.API = '/';
 
-export default config

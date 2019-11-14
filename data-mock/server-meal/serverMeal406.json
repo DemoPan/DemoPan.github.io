@@ -62,15 +62,6 @@
 						"content": [
 							{
 								"font": "regular",
-								"align": "center",
-								"content": "六种不同波长的脉冲光: 黑色素、表皮、胶原蛋白、真皮层、皮下组织"
-							}
-						]
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "regular",
 								"align": "",
 								"content": "六种波长的强脉冲波，可分别到达皮肤角质层、表皮、真皮浅层、真皮深层和皮下组织，改善细纹，毛孔粗大，松弛下垂等效果明显，治疗过程大约20分钟。"
 							}
@@ -221,15 +212,6 @@
 						"type": "txt",
 						"content": [
 							{
-								"font": "regular",
-								"align": "center",
-								"content": "破坏黑色素，没有热损伤，不会刺激黑色素细胞，治疗后不会复发"
-							}
-						]
-					}, {
-						"type": "txt",
-						"content": [
-							{
 								"font": "medium",
 								"align": "",
 								"size": "14",
@@ -264,15 +246,6 @@
 					}, {
 						"type": "img",
 						"content": "../images/detail/kk/k6.jpg"
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "regular",
-								"align": "center",
-								"content": "将透明质酸注入皱纹的“深沟处”，从内向外拱出皱纹"
-							}
-						]
 					}, {
 						"type": "img",
 						"content": "../images/detail/kk/k7.jpg"
@@ -323,15 +296,6 @@
 					}, {
 						"type": "img",
 						"content": "../images/detail/kk/k8.jpg"
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "regular",
-								"align": "center",
-								"content": "表皮/真皮/皮下组织/肌肉/肌肤变得细腻/注入肌肉"
-							}
-						]
 					}, {
 						"type": "txt",
 						"content": [
@@ -424,15 +388,6 @@
 					}, {
 						"type": "img",
 						"content": "../images/detail/kk/k9.jpg"
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "regular",
-								"align": "center",
-								"content": "使用器械吸住皮肤之后一次性注入定量药液，保证注射深度均一，注入量均一。"
-							}
-						]
 					}, {
 						"type": "img",
 						"content": "../images/detail/kk/k10.jpg"

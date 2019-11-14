@@ -194,6 +194,14 @@
 							}
 						]
 					}, {
+						"type": "line",
+						"content": [
+							{
+								"font": "regular",
+								"content": ""
+							}
+						]
+					}, {
 						"type": "txt",
 						"content": [
 							{
