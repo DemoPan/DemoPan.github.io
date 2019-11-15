@@ -32,7 +32,7 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id1_1.jpg"
+						"content": ["../images/detail/re/id1_1.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -72,7 +72,7 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id1_2.jpg"
+						"content": ["../images/detail/re/id1_2.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -94,7 +94,7 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id1_3.jpg"
+						"content": ["../images/detail/re/id1_3.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -116,7 +116,7 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id1_4.jpg"
+						"content": ["../images/detail/re/id1_4.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -158,7 +158,7 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id1_5.jpg"
+						"content": ["../images/detail/re/id1_5.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -207,7 +207,7 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id1_6.jpg"
+						"content": ["../images/detail/re/id1_6.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -232,7 +232,7 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id1_7.jpg"
+						"content": ["../images/detail/re/id1_7.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -280,7 +280,7 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id1_8.jpg"
+						"content": ["../images/detail/re/id1_8.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -536,8 +536,8 @@
 				"title": "东京天皇御医私立诊所至尊体检+伊豆日本人心中No.1温泉酒店",
 				"headImg": "../images/detail/re/id2_6.jpg",
 				"tag": [],
-				"price": 12.8,
-				"day": "6天5晚",
+				"price": 11.8,
+				"day": "4天3晚",
 				"description": "全面健康体检+私人定制保健方案，可用于改善亚健康状态，早期预防疾病的治疗对策，深受各界精英人士青睐。",
 				"details": [
 					{
@@ -579,7 +579,7 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id1_1.jpg"
+						"content": ["../images/detail/re/id1_1.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -656,7 +656,7 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id2_2.jpg"
+						"content": ["../images/detail/re/id2_2.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -708,10 +708,10 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id2_3.jpg"
+						"content": ["../images/detail/re/id2_3.jpg"]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id2_4.jpg"
+						"content": ["../images/detail/re/id2_4.jpg"]
 					},{
 						"type": "txt",
 						"content": [
@@ -763,7 +763,7 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id2_5.jpg"
+						"content": ["../images/detail/re/id2_5.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -775,7 +775,7 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/detail/re/id2_6.jpg"
+						"content": ["../images/detail/re/id2_6.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -813,6 +813,543 @@
 								"font": "regular",
 								"align": "",
 								"content": "日本作为国人旅游热点国家早已不是新闻，然而您在这次旅行中获得的体验，却不是大家“熟知”的那个日本。让我们带领各位贵宾，深度了解自己的健康状况，深度了解日本的美景与文化。"
+							}
+						]
+					}
+				]
+			},{
+				"id": 3,
+				"title": "大阪吹田德洲会“精密体检” ＋ 京都虹夕诺雅",
+				"headImg": "../images/detail/re/id3_7.jpg",
+				"tag": [],
+				"price": 9.8,
+				"day": "4天3晚",
+				"description": "全面健康体检+私人定制保健方案，可用于改善亚健康状态，早期预防疾病的治疗对策，深受各界精英人士青睐。",
+				"details": [
+					{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "大阪吹田德洲会"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "成立于2014年的全新综合大型医院，隶属于日本规模第一的民间医疗法人德州会集团，是覆盖全日本的340家医疗设施之一。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "大阪吹田德洲会秉承“唯有生命是平等的”的精神，并以“无论何时何地任何人都能放心地接受治疗”“不拒绝的医疗”为基本方针，为患者提供了丰富的精密体检套餐，患者可以安心的在这里检查并就诊。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_1.jpg"]
+					},{
+						"type": "img",
+						"content": [
+							"../images/detail/re/id3_2.jpg",
+							"../images/detail/re/id3_3.jpg"
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "大阪吹田德洲会不仅能够提供安全，安心，细致的医疗服务，还拥有各种先进的精密医疗器械。比如可以发现早期癌症的PET-CT。以前的PET装置，不擅长判断脏器，那时还需要追加CT和MRI等检查。大阪吹田德洲会引进的PET – CT是 PET和CT（X射线断层摄影装置）可以同时拍摄2个图像的最新锐的设备。PET-CT诊断癌的大小、正确的位置、癌转移等的精度高，对癌症的早期发现、制定治疗计划，发挥着重要作用。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_4.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"content": "另外还有最先进的乳腺癌早期发现设备钼靶。"
+							},{
+								"font": "regular",
+								"content": "钼靶是乳房专用的X射线拍摄装置，即X光检测装置。早期乳癌标志为微小的钙化、摸不出来的小硬块等，通过钼靶有效地发现上述标志。大阪吹田德洲会的钼靶是FUJIFILM公司自行研发的直接变换式FPD（平板检测器），实现了世界上最小（2011年9月至今）像素50μm。使用新的图像处理技术，可以输出高画质的图像，使得诊断更加容易。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_5.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "全程尊享星野顶级虹夕诺雅品牌酒店"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "星野集团「虹夕诺雅」始于1914年，是日本顶级温泉度假酒店之一。它坐落在风景里，不论是静谧的山野还是繁华的都市，都能构建出虹夕诺雅的世界，仿若一个神秘的结界把一切喧嚣繁忙隔绝在外，享受属于自己的美好时光。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "本行程入住京都虹夕诺雅，这是座拥有百年历史的酒店。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_6.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "深受日本皇室贵所喜爱的度假胜地-京都·岚山"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "岚山位于京都西郊，自平安时代起，便被日本皇室贵族所钟爱。岚山四季风景优美，春有樱花夏有月，秋有红叶冬有雪，薄雾细雨幽静缭绕，山水风光更是美不胜收，有“京都第一名胜”的美誉！"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_7.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "全球知名奢华酒店品牌-大阪希尔顿"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "大阪希尔顿酒店位于大阪市中心的商务和娱乐区，并与大阪最大的购物中心相连。酒店内配备有行政酒廊，从窗口向外望去，城市景观尽入眼底。您可以在健身房、游泳池和休闲沙龙中尽情放松自己。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_8.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 1大阪"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "专车机场迎接贵宾，送至下榻酒店。大阪希尔顿酒店位于大阪市中心的梅田地区，包括总统套房在内的客房总数562间，其中和式套房更是婉约典雅，精致温馨。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_9.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 2 大阪吹田德洲会 精密体检"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "1、检查前日，当天及之后，需要配合医生控制饮食，请谅解；"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "2、眼底，眼压，MRI检查时请摘下隐形眼镜；"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "3、内视镜检查如果发现息肉，经客人同意的情况下，可以另外付费进行生体检查。检查出结果前，原则 上客人需自费延长滞在大阪一周，并遵医嘱，控制饮食；"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "4、胃镜和PETCT同日检查时，不能使用镇静剂；"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "5、PETCT检查当日避免运动；"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "6、对MRI有不适症的客人，改为CT检查（无差额补偿）；"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_10.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "晚餐，在入住的京都虹夕诺雅用餐。使用四季的海鲜，松茸，和牛，龙虾等上等食材烹制而成的奢华又不失精致的日式套餐。再配以纯正的日本酒更可以让您品尝到日式料理的精髓！"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_11.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 3 京都-岚山"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"content": "专属中文司机兼向导，专车出发至岚山"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "岚山是京都著名的风景区，位于京都市西北部，丹波高地东缘，有“京都第一名胜”之称。山高375米。东北面是嵯峨野，东面与大泽、广泽和宇多野相接，西面有小仓山，著名的大堰川蜿蜒流经其北。其上游的保津川，峡谷深邃，水流湍急，景色别致。下游有长达154米的渡月桥接两岸，站在桥上环顾四周，岚山隐约如黛，松樱密布；桥下碧波荡漾，流水潺潺。周恩来总理当年东渡日本留学之时还曾题诗『雨中岚山』。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "第一站：龙安寺"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "京都府右京区的妙心寺七刹之一。作为“古都京都文化遗产”已被列入世界文化保护遗产。占地面积约75坪的枯山水石庭庭院更是驰名海外，英国伊丽莎白女王也曾到访。高超的枯山水庭院技艺更有浑然天成，因此有了“虎子踱步之庭”的美称。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_12.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "第二站：常寂光寺"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "常寂光寺是日莲宗的寺院，四季景色富美的小仓山的半山腰。小仓山自平安时代护以来作为贵族和皇族的别墅地而驰名海外。寺内有著名的日本佛像大师运庆的作品“仁王门像”，据说医治腿疾有奇效。在本堂附近的妙见堂供奉有象征北斗七星的妙见菩萨。院内有建于1620年，高约12米的二层宝塔，被指定为世界重要文化财产。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_13.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"content": "第三站：二尊院"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "位于小仓山东麓的二尊院，建于大永元年，境内植有四季常青的松树，充满宁静清幽的气氛。这里为了祭祀鼓励现世之生的释迦如来和引导死后之魂的阿弥陀如来，合称为二尊院，更因春樱秋枫的美景而被记载在日本平安时代的诗歌集『小仓百人一首』中。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_14.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"content": "晚上入住京都虹夕诺雅。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "京都虹夕诺雅的特殊之处在于，进出皆有一叶扁舟摆渡来去，旅馆墨黑色的屋型船独树一帜，给人一种极强的专属感。这种非日常形式营造出隆重的仪式感，迎接客人进入这仿佛桃花源般的古代贵族水边宅邸。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_15.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "★在这里可以品尝到有美食之都之称的正宗京都会席料理。以“五味自在”为名的全套日式宴会套餐，由获得了米其林星级的厨师长根据季节的不同烹制出的震撼五感的美味佳肴。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_16.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 4 享受完虹夕诺雅的优雅早餐后，来体验一下不同的日本文化吧！"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"content": "专车机场迎接贵宾，送至目的地。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"content": "●十二单（和服）变身体验"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "今年10月日本天皇即位时，皇后所穿的日本皇室正装“十二单”。即使是皇室也只能在继位大典，婚礼时才能着的皇室成年女子的正装。从上妆，穿戴，拍照，让您充分体验皇室贵族的氛围，另外还有做日本传统游戏，品茶等项目。另有散步方案。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": [
+							"../images/detail/re/id3_17.jpg",
+							"../images/detail/re/id3_18.jpg"
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_19.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"content": "●闻香·调香体验"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "我们经常会在古装时代剧中看到闻香闻香·调香的场景，这也本是中国古时上流社会的艺趣之一，只可惜现在在国内已经难得一见了。在这里您可以借由判别香气的「组香」游戏，来品味伽罗、沉香等贵重香木的芬芳。闻香开始前会介绍简单的闻香作法以及香木的介绍，欢迎初次体验闻香者参加。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_20.jpg"]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id3_21.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "晚上入住京都虹夕诺雅。"
+							}
+						]
+					},{
+						"type": "img",
+						"content": ["../images/detail/re/id1_2.jpg"]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "Day 5 酒店出发专车将贵宾送至机场，踏上归国之旅"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "费用包含"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "住宿：行程所列酒店住宿费用。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "餐食：行程内所列餐食，不含酒水。(具体请参考行程推荐，自理除外)。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "门票：行程中所列景点首道大门票。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "用车：行程内所含项目用车费用。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "服务：导游及司机每日工作时间10小时。如超时，需现地支付超时费用，1万日元每小时。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "当地中文导游服务。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "medium",
+								"align": "",
+								"size": "14",
+								"content": "费用不包含"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "机票：国际段往返航班，机场税，燃油附加费。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "签证：日本旅游签证"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "其他：超重行李的托运费、保管费; 因交通延阻、罢工、天气、机器故障等不可抗力原因所导致的额外费用: 酒店内洗衣、理发、电话、传真、收费电视、饮品、烟酒等个人消费; 自由活动期间的用车服务; 提供导游服务的产品在自由活动期间无陪同服务; 当地参加的自费以及“费用包含”中不包含的其它项目。"
+							}
+						]
+					},{
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"content": "单房差（单人入住一间房间补差费用）"
 							}
 						]
 					}

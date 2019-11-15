@@ -9,7 +9,7 @@
 				"details": [
 					{
 						"type": "img",
-						"content": "../images/server/experience/e1.jpg"
+						"content": ["../images/server/experience/e1.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -349,7 +349,7 @@
 						]
 					}, {
 						"type": "img",
-						"content": "../images/server/regenerate/r1.jpg"
+						"content": ["../images/server/regenerate/r1.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -415,7 +415,7 @@
 						]
 					},{
 						"type": "img",
-						"content": "../images/server/regenerate/r2.jpg"
+						"content": ["../images/server/regenerate/r2.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -427,7 +427,7 @@
 						]
 					},{
 						"type": "img",
-						"content": "../images/server/regenerate/r3.jpg"
+						"content": ["../images/server/regenerate/r3.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -439,7 +439,7 @@
 						]
 					},{
 						"type": "img",
-						"content": "../images/server/regenerate/r4.jpg"
+						"content": ["../images/server/regenerate/r4.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -451,7 +451,7 @@
 						]
 					},{
 						"type": "img",
-						"content": "../images/server/regenerate/r5.jpg"
+						"content": ["../images/server/regenerate/r5.jpg"]
 					}
 				]
 			},{
@@ -479,7 +479,7 @@
 						]
 					},{
 						"type": "img",
-						"content": "../images/server/cosmetology/c1.jpg"
+						"content": ["../images/server/cosmetology/c1.jpg"]
 					}, {
 						"type": "txt",
 						"content": [
@@ -563,7 +563,7 @@
 						]
 					},{
 						"type": "img",
-						"content": "../images/server/cosmetology/c2.jpg"
+						"content": ["../images/server/cosmetology/c2.jpg"]
 					}
 				]
 			}
