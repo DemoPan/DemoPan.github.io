@@ -5,12 +5,17 @@
 			"headImg": "images/hospital/nhc/nhc_headimg.jpg",
 			"title": "NATURAL HARMONY CLINIC表参道",
 			"description": "再生医疗·预防医疗细胞疗法",
-			"meal": [
-				{ "name": "自体脂肪间充质干细胞疗法", "price": "" },
-				{ "name": "NK细胞的癌症免疫细胞疗法", "price": "" },
-				{ "name": "干细胞上清液的毛发再生", "price": "" },
-				{ "name": "成纤维细胞的皮肤再生", "price": "" },
-				{ "name": "PRP（富血小板血浆）的皮肤再生", "price": "" }
+			"mealList": [
+				{
+					"title": "日本银座健康院",
+					"description": "再生医疗·预防医疗细胞疗法",
+					"meal": [
+						{ "name": "自体脂肪间充质干细胞疗法", "price": "3952000" },
+						{ "name": "NK细胞的癌症免疫细胞疗法", "price": "675000" },
+						{ "name": "干细胞上清液的毛发再生", "price": "178500" },
+						{ "name": "成纤维细胞的皮肤再生", "price": "1657500", "tprice": "690000" }
+					]
+				}
 			],
 			"flow": {
 				"title": "详细流程",
@@ -494,112 +499,6 @@
 								"font": "regular",
 								"align": "",
 								"content": "※细胞银行:保存细胞另需保存费用。每次移植也另需再次培养费用。"
-							}
-						]
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "medium",
-								"align": "",
-								"size": "14",
-								"anchor": "405",
-								"content": "PRP（富血小板血浆）的皮肤再生"
-							}
-						]
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "medium",
-								"align": "",
-								"color": "red",
-								"content": "免费咨询"
-							}
-						]
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "regular",
-								"align": "",
-								"content": "通过咨询听取患者的症状和闲扰,医生准确诊断患者的状态,并在检查时,由医生详细地讲解再生医疗和治疗的内容。"
-							}
-						]
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "medium",
-								"align": "",
-								"color": "red",
-								"content": "抽血"
-							}
-						]
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "regular",
-								"align": "",
-								"content": "采集血液。抽血量少,轻微贫血的人群也可接受治疗。"
-							}
-						]
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "medium",
-								"align": "",
-								"color": "red",
-								"content": "提取PRP"
-							}
-						]
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "regular",
-								"align": "",
-								"content": "使用专用的离心分离机，从血液中提取PRP。"
-							}
-						]
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "medium",
-								"align": "",
-								"color": "red",
-								"content": "注射"
-							}
-						]
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "regular",
-								"align": "",
-								"content": "使用注射器逐一向增龄明显部位注射少量的PRP。"
-							}
-						]
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "medium",
-								"align": "",
-								"color": "red",
-								"content": "免费检查"
-							}
-						]
-					}, {
-						"type": "txt",
-						"content": [
-							{
-								"font": "regular",
-								"align": "",
-								"content": "建议在注射几个月后接受免费检查。向患者展示照片，由医生对过程进行讲解。"
 							}
 						]
 					}
