@@ -437,9 +437,195 @@
 								"content": "干细胞研究与日本再生医疗的发展历史："
 							}
 						]
-					},{
-						"type": "img",
-						"content": ["../images/server/regenerate/r4.jpg"]
+					}, {
+						"type": "txt",
+						"style": "line",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "20世纪60年代前期"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "加拿大放射学家蒂尔和麦卡洛克等通过研究确立了干细胞的概念"
+							}
+						]
+					}, {
+						"type": "txt",
+						"style": "line",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "20世纪60年代后期"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "美国华盛顿大学的托马斯等人开始对白血病患者进行骨髓移植的治疗试验，并于20世纪70年代确立了相关方法"
+							}
+						]
+					}, {
+						"type": "txt",
+						"style": "line",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "20世纪70年代"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "在骨髓中发现间充质干细胞"
+							}
+						]
+					}, {
+						"type": "txt",
+						"style": "line",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "1975年"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "格登教授将从青蛙皮肤细胞中采集的细胞核分两步植入卵子，在全世界第一个利用成体细胞核培育出了“克隆动物”"
+							}
+						]
+					}, {
+						"type": "txt",
+						"style": "line",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "1998年"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "美国威斯康星大学的汤姆森等人使用不孕不育治疗(体外受精)中剩余的受精卵培养出了ES细胞"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "对于再生医疗成为现实的期待与日俱增"
+							}
+						]
+					}, {
+						"type": "txt",
+						"style": "line",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "2001年"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "在脂肪组织中发现间充质干细胞"
+							}
+						]
+					}, {
+						"type": "txt",
+						"style": "line",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "2007年"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "京都大学的山中教授等人通过对患者自身的体细胞进行简单的基因操作，人工培养出了机能与ES细胞相同的iPS细胞"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "再生医学研究在临床中的应用受到关注"
+							}
+						]
+					}, {
+						"type": "txt",
+						"style": "line",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "2014年"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "实施世界第一例由iPS细胞培养的视网膜色素上皮细胞的移植手术"
+							}
+						]
+					}, {
+						"type": "txt",
+						"style": "line",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "2014年11月"
+							}
+						]
+					}, {
+						"type": "txt",
+						"content": [
+							{
+								"font": "regular",
+								"align": "",
+								"content": "厚生劳动省颁布并实施《确保再生医疗等安全性等相关法律》，根据对人员生命及健康产生影响的程度，划分为“第一类再生医疗”、“第二类再生医疗”、“第三类再生医疗”，规定了其各自需要办理的手续"
+							}
+						]
 					}, {
 						"type": "txt",
 						"content": [
