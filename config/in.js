@@ -4,8 +4,8 @@ window.language = {
 	anti_aging_care_beauty: '抗衰老护理、美颜',
 	beauty_medical_equipment: "美容医疗器械",
 	injection_therapy: "注射治疗",
-	taipu_services_cosmetology: "泰璞健康提供的医疗美容服务",
-	taipu_services_regenerate: "泰璞健康提供的再生医疗服务",
+	taipu_services_cosmetology: "泰璞健康提供的赴日医美服务",
+	taipu_services_regenerate: "泰璞健康提供的赴日医疗服务",
 	taipu_services_examination: "泰璞健康提供的赴日体检服务",
 
 	server_line: "服务专线",
